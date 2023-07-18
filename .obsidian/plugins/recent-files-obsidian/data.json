@@ -1,0 +1,63 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Circuitos DC",
+      "path": "Circuitos DC.md"
+    },
+    {
+      "basename": "Limite de funções no R",
+      "path": "Limite de funções no R.md"
+    },
+    {
+      "basename": "Geometria",
+      "path": "Geometria.md"
+    },
+    {
+      "basename": "Limites envolvendo infinito",
+      "path": "Limites envolvendo infinito.md"
+    },
+    {
+      "basename": "Limites de funções",
+      "path": "Limites de funções.md"
+    },
+    {
+      "basename": "Limites unilaterais",
+      "path": "Limites unilaterais.md"
+    },
+    {
+      "basename": "Cálculo diferencial",
+      "path": "Cálculo diferencial.md"
+    },
+    {
+      "basename": "Álgebra Linear",
+      "path": "Álgebra Linear.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "Teorema",
+      "path": "Templates/Teorema.md"
+    },
+    {
+      "basename": "Proposição",
+      "path": "Templates/Proposição.md"
+    },
+    {
+      "basename": "Definição",
+      "path": "Templates/Definição.md"
+    },
+    {
+      "basename": "Axioma",
+      "path": "Templates/Axioma.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

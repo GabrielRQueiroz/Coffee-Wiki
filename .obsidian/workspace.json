@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "d6d885080f1b2fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cff36e04db0340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bac740eadac863b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf0c42a7a3b35ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c9d14a3c415ca2b",
+        "type": "tabs",
+        "dimension": 71.28146453089245,
+        "children": [
+          {
+            "id": "b75be72da4142382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a643a2297da1c185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0285a000ee248a19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd715eddd3b1ffe",
+        "type": "tabs",
+        "dimension": 28.718535469107554,
+        "children": [
+          {
+            "id": "b047539a42124976",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7c0554c877439c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a59127ce9484219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa6ada5e40db086",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4625ad3771de157d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a9cc51f2b49d129",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6892920e31ae96e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "fb75b8f28704ffc7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "homepage:Open homepage": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0bac740eadac863b",
+  "lastOpenFiles": [
+    "Limite de funções no R.md",
+    "Circuitos DC.md",
+    "Home.md",
+    "Limites de funções.md",
+    "Sem título.canvas",
+    "2023-07-17.md",
+    "Limites envolvendo infinito.md"
+  ]
+}
