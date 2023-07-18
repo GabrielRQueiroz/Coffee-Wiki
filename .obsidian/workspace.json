@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fb770465066257f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fórmula de Euler.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformada de Fourier.md",
+                "file": "Fórmula de Euler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transformada de Fourier.md",
+                "file": "Fórmula de Euler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformada de Fourier.md"
+                "file": "Fórmula de Euler.md"
               }
             }
           },
@@ -174,9 +188,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e058f6223818d5af",
+  "active": "6fb770465066257f",
   "lastOpenFiles": [
     "Transformada de Fourier.md",
+    "Fórmula de Euler.md",
     "Home.md",
     "Limite de funções no R.md",
     "Circuitos DC.md",
