@@ -3,5 +3,6 @@
   "cssTheme": "Obsidianite",
   "interfaceFontFamily": "CMU Serif",
   "textFontFamily": "CMU Serif",
-  "monospaceFontFamily": "Courier Prime"
+  "monospaceFontFamily": "Courier Prime",
+  "baseFontSize": 15
 }

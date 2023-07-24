@@ -1,4 +1,4 @@
-Tags: #Type/Definição #Em_progresso
+Tags: #Type/Definição #Topic/Cálculo #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  

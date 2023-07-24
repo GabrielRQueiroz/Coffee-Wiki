@@ -12,10 +12,11 @@ Justificativas: _Não Aplicável_
 
 ```ad-abstract
 title: Definição.
+Seja $\omega$ a frequência angular (usualmente complexa), de modo que $\omega = 2\pi\xi$. A transformada de Fourier na frequência $\omega$ é dada por:
 
-$$X(\omega)=\int^{\infty}_{t=-\infty}x(t)e^{-j\omega t}dt$$
+$$\mathcal{F}\{x(t)\}:=X(\omega)=\int^{\infty}_{-\infty}x(t)e^{-j\omega t}dt$$
 
 cuja inversa é caracterizada por
 
-$$x(t)=\frac 1 {2\pi} \int_{\omega=-\infty}^{\infty} X(\omega)e^{j\omega t}d\omega $$
+$$\mathcal{F}^{-1}\{X(s)\}:=x(t)=\frac 1 {2\pi} \int_{-\infty}^{\infty} X(\omega)e^{j\omega t}d\omega $$
 ```

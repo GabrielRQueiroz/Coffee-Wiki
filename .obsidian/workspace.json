@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7be0fb4f1cdc363d",
+        "id": "41cb4da96f4d822d",
         "type": "tabs",
         "children": [
           {
-            "id": "e058f6223818d5af",
+            "id": "5cf14f5158cc3ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformada de Fourier.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fb770465066257f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fórmula de Euler.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5110321044922
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -109,6 +95,7 @@
       {
         "id": "3a59127ce9484219",
         "type": "tabs",
+        "dimension": 54.44162436548223,
         "children": [
           {
             "id": "3fa6ada5e40db086",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fórmula de Euler.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +115,12 @@
             }
           },
           {
-            "id": "4625ad3771de157d",
+            "id": "aa45bee7e5da19cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fórmula de Euler.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +143,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fórmula de Euler.md"
+                "file": "README.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f0a8084cd996afcc",
+        "type": "tabs",
+        "dimension": 45.55837563451777,
+        "children": [
           {
             "id": "fb75b8f28704ffc7",
             "type": "leaf",
@@ -172,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,16 +182,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6fb770465066257f",
+  "active": "5cf14f5158cc3ab0",
   "lastOpenFiles": [
-    "Transformada de Fourier.md",
+    "Sem título.md",
+    "README.md",
+    "Sinais.md",
     "Fórmula de Euler.md",
+    "Teorema da convolução.md",
+    "Templates/Teorema.md",
+    "Princípio da superposição.md",
+    "Amostragem de sinais.md",
     "Home.md",
+    "Convolução.md",
+    "Sistema linear invariante no tempo.md",
+    "Sistemas.md",
+    "Transformada de Fourier.md",
+    "Transformada de Laplace.md",
+    "Sinal degrau unitário.md",
+    "Probabilidade e estatística.md",
+    "Limites unilaterais.md",
+    "Pente de Dirac.md",
+    "Delta de Dirac.md",
+    "Sinal impulso unitário.md",
+    "f943f55b.bmp",
+    "Limites envolvendo infinito.md",
     "Limite de funções no R.md",
+    "Geometria.md",
+    "Cálculo diferencial.md",
     "Circuitos DC.md",
-    "Limites de funções.md",
-    "Sem título.canvas",
-    "2023-07-17.md",
-    "Limites envolvendo infinito.md"
+    "Derivada de uma função.md",
+    "Assets/dirac_delta.txt",
+    "Assets/New Text Document.txt",
+    "Assets",
+    "Coffee-Wiki/preamble.sty",
+    "Coffee-Wiki/image_template.txt",
+    "Coffee-Wiki/Templates",
+    "Coffee-Wiki",
+    "Sem título.canvas"
   ]
 }

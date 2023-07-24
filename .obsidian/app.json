@@ -4,5 +4,6 @@
     "en-US",
     "pt-BR"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

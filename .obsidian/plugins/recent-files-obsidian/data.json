@@ -1,20 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Sinais",
+      "path": "Sinais.md"
+    },
+    {
       "basename": "Fórmula de Euler",
       "path": "Fórmula de Euler.md"
     },
     {
-      "basename": "Transformada de Fourier",
-      "path": "Transformada de Fourier.md"
+      "basename": "Teorema da convolução",
+      "path": "Teorema da convolução.md"
+    },
+    {
+      "basename": "Teorema",
+      "path": "Templates/Teorema.md"
+    },
+    {
+      "basename": "Princípio da superposição",
+      "path": "Princípio da superposição.md"
+    },
+    {
+      "basename": "Amostragem de sinais",
+      "path": "Amostragem de sinais.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "Circuitos DC",
-      "path": "Circuitos DC.md"
+      "basename": "Convolução",
+      "path": "Convolução.md"
+    },
+    {
+      "basename": "Sistema linear invariante no tempo",
+      "path": "Sistema linear invariante no tempo.md"
+    },
+    {
+      "basename": "Sistemas",
+      "path": "Sistemas.md"
+    },
+    {
+      "basename": "Transformada de Fourier",
+      "path": "Transformada de Fourier.md"
+    },
+    {
+      "basename": "Transformada de Laplace",
+      "path": "Transformada de Laplace.md"
+    },
+    {
+      "basename": "Sinal degrau unitário",
+      "path": "Sinal degrau unitário.md"
+    },
+    {
+      "basename": "Probabilidade e estatística",
+      "path": "Probabilidade e estatística.md"
+    },
+    {
+      "basename": "Limites unilaterais",
+      "path": "Limites unilaterais.md"
+    },
+    {
+      "basename": "Pente de Dirac",
+      "path": "Pente de Dirac.md"
+    },
+    {
+      "basename": "Delta de Dirac",
+      "path": "Delta de Dirac.md"
+    },
+    {
+      "basename": "Sinal impulso unitário",
+      "path": "Sinal impulso unitário.md"
+    },
+    {
+      "basename": "Limites envolvendo infinito",
+      "path": "Limites envolvendo infinito.md"
     },
     {
       "basename": "Limite de funções no R",
@@ -25,32 +89,20 @@
       "path": "Geometria.md"
     },
     {
-      "basename": "Limites envolvendo infinito",
-      "path": "Limites envolvendo infinito.md"
-    },
-    {
-      "basename": "Limites de funções",
-      "path": "Limites de funções.md"
-    },
-    {
-      "basename": "Limites unilaterais",
-      "path": "Limites unilaterais.md"
-    },
-    {
       "basename": "Cálculo diferencial",
       "path": "Cálculo diferencial.md"
     },
     {
-      "basename": "Álgebra Linear",
-      "path": "Álgebra Linear.md"
+      "basename": "Circuitos DC",
+      "path": "Circuitos DC.md"
     },
     {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
+      "basename": "Função passo de Heaviside",
+      "path": "Função passo de Heaviside.md"
     },
     {
-      "basename": "Teorema",
-      "path": "Templates/Teorema.md"
+      "basename": "Limites de funções",
+      "path": "Limites de funções.md"
     },
     {
       "basename": "Proposição",
@@ -59,6 +111,14 @@
     {
       "basename": "Definição",
       "path": "Templates/Definição.md"
+    },
+    {
+      "basename": "Álgebra Linear",
+      "path": "Álgebra Linear.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
     },
     {
       "basename": "Axioma",
