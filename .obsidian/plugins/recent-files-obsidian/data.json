@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
+      "basename": "Limite de funções no R",
+      "path": "Notes/Limite de funções no R.md"
+    },
+    {
+      "basename": "Circuitos DC",
+      "path": "Notes/Circuitos DC.md"
+    },
+    {
+      "basename": "Convolução",
+      "path": "Notes/Convolução.md"
+    },
+    {
+      "basename": "Amostragem de sinais",
+      "path": "Notes/Amostragem de sinais.md"
+    },
+    {
+      "basename": "Pente de Dirac",
+      "path": "Notes/Pente de Dirac.md"
+    },
+    {
+      "basename": "Sinal degrau unitário",
+      "path": "Notes/Sinal degrau unitário.md"
+    },
+    {
       "basename": "Sinais",
-      "path": "Sinais.md"
+      "path": "Notes/Sinais.md"
+    },
+    {
+      "basename": "Transformada de Laplace",
+      "path": "Notes/Transformada de Laplace.md"
     },
     {
       "basename": "Fórmula de Euler",
-      "path": "Fórmula de Euler.md"
+      "path": "Notes/Fórmula de Euler.md"
     },
     {
       "basename": "Teorema da convolução",
-      "path": "Teorema da convolução.md"
+      "path": "Notes/Teorema da convolução.md"
     },
     {
       "basename": "Teorema",
@@ -22,87 +54,55 @@
     },
     {
       "basename": "Princípio da superposição",
-      "path": "Princípio da superposição.md"
-    },
-    {
-      "basename": "Amostragem de sinais",
-      "path": "Amostragem de sinais.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Convolução",
-      "path": "Convolução.md"
+      "path": "Notes/Princípio da superposição.md"
     },
     {
       "basename": "Sistema linear invariante no tempo",
-      "path": "Sistema linear invariante no tempo.md"
+      "path": "Notes/Sistema linear invariante no tempo.md"
     },
     {
       "basename": "Sistemas",
-      "path": "Sistemas.md"
+      "path": "Notes/Sistemas.md"
     },
     {
       "basename": "Transformada de Fourier",
-      "path": "Transformada de Fourier.md"
-    },
-    {
-      "basename": "Transformada de Laplace",
-      "path": "Transformada de Laplace.md"
-    },
-    {
-      "basename": "Sinal degrau unitário",
-      "path": "Sinal degrau unitário.md"
+      "path": "Notes/Transformada de Fourier.md"
     },
     {
       "basename": "Probabilidade e estatística",
-      "path": "Probabilidade e estatística.md"
+      "path": "Notes/Probabilidade e estatística.md"
     },
     {
       "basename": "Limites unilaterais",
-      "path": "Limites unilaterais.md"
-    },
-    {
-      "basename": "Pente de Dirac",
-      "path": "Pente de Dirac.md"
+      "path": "Notes/Limites unilaterais.md"
     },
     {
       "basename": "Delta de Dirac",
-      "path": "Delta de Dirac.md"
+      "path": "Notes/Delta de Dirac.md"
     },
     {
       "basename": "Sinal impulso unitário",
-      "path": "Sinal impulso unitário.md"
+      "path": "Notes/Sinal impulso unitário.md"
     },
     {
       "basename": "Limites envolvendo infinito",
-      "path": "Limites envolvendo infinito.md"
-    },
-    {
-      "basename": "Limite de funções no R",
-      "path": "Limite de funções no R.md"
+      "path": "Notes/Limites envolvendo infinito.md"
     },
     {
       "basename": "Geometria",
-      "path": "Geometria.md"
+      "path": "Notes/Geometria.md"
     },
     {
       "basename": "Cálculo diferencial",
-      "path": "Cálculo diferencial.md"
-    },
-    {
-      "basename": "Circuitos DC",
-      "path": "Circuitos DC.md"
+      "path": "Notes/Cálculo diferencial.md"
     },
     {
       "basename": "Função passo de Heaviside",
-      "path": "Função passo de Heaviside.md"
+      "path": "Notes/Função passo de Heaviside.md"
     },
     {
       "basename": "Limites de funções",
-      "path": "Limites de funções.md"
+      "path": "Notes/Limites de funções.md"
     },
     {
       "basename": "Proposição",
@@ -111,10 +111,6 @@
     {
       "basename": "Definição",
       "path": "Templates/Definição.md"
-    },
-    {
-      "basename": "Álgebra Linear",
-      "path": "Álgebra Linear.md"
     },
     {
       "basename": "MOC",
