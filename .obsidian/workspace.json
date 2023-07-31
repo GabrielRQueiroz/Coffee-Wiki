@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "41cb4da96f4d822d",
+        "id": "4c89204ced888b60",
         "type": "tabs",
         "children": [
           {
-            "id": "5cf14f5158cc3ab0",
+            "id": "19c355983a096bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b80bde05c25e2755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "Notes/Convolução.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "Notes/Convolução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "Notes/Convolução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Álgebra Linear.md"
+                "file": "Notes/Convolução.md"
               }
             }
           }
@@ -196,36 +182,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b80bde05c25e2755",
+  "active": "19c355983a096bf9",
   "lastOpenFiles": [
     "README.md",
+    "Notes/Sinais.md",
+    "Notes/Pente de Dirac.md",
+    "Notes/Série de Fourier do pente de Dirac.md",
+    "Notes/Teorema da convolução.md",
+    "Notes/Sinal impulso unitário.md",
+    "Notes/Sinal degrau unitário.md",
+    "Notes/Transformada de Laplace.md",
+    "Notes/Sistemas.md",
+    "Notes/Sistema linear invariante no tempo.md",
+    "Notes/Convolução.md",
+    "Notes/Cálculo diferencial.md",
+    "Notes/Amostragem de sinais.md",
+    "Notes/Álgebra Linear.md",
+    "Notes/Topico tal.md",
+    "Notes/Delta de Dirac.md",
+    "Notes/Fórmula de Euler.md",
     "Home.md",
     "Notes/Limite de funções no R.md",
     "Notes/Circuitos DC.md",
-    "Notes/Convolução.md",
-    "Notes/Álgebra Linear.md",
-    "Notes/Amostragem de sinais.md",
-    "Notes/Pente de Dirac.md",
-    "Notes/Sinal degrau unitário.md",
-    "Notes/Sinais.md",
-    "Notes/Transformada de Laplace.md",
     "Notes",
     "Sem título.md",
-    "Notes/Fórmula de Euler.md",
-    "Notes/Teorema da convolução.md",
     "Templates/Teorema.md",
     "Notes/Princípio da superposição.md",
-    "Notes/Sistema linear invariante no tempo.md",
-    "Notes/Sistemas.md",
     "Notes/Transformada de Fourier.md",
     "Notes/Probabilidade e estatística.md",
     "Notes/Limites unilaterais.md",
-    "Notes/Delta de Dirac.md",
-    "Notes/Sinal impulso unitário.md",
     "f943f55b.bmp",
-    "Notes/Limites envolvendo infinito.md",
-    "Notes/Geometria.md",
-    "Notes/Cálculo diferencial.md",
     "Assets/dirac_delta.txt",
     "Assets/New Text Document.txt",
     "Assets",

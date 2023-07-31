@@ -5,9 +5,9 @@
   "version": "9.3.3",
   "autoCollapse": false,
   "defaultCollapseType": "open",
-  "injectColor": true,
+  "injectColor": false,
   "parseTitles": true,
-  "dropShadow": true,
+  "dropShadow": false,
   "hideEmpty": false,
   "open": {
     "admonitions": true,

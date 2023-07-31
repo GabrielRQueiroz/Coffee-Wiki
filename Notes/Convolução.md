@@ -6,7 +6,7 @@ Construções: _Não Aplicável_
 Generalizações: _Não Aplicável_
 
 Propriedades: [[Teorema da convolução|$\Fo\{f*g\}=\Fo\{f\}\cdot\Fo\{g\}$]]  
-Suficiências: [[Função absolutamente integrável|$f(x)$ e $g(x)$ devem sem absolutamente integrável nos intervalos $[-\infty,\,0]$, $[0,\,\infty]$ ou $[-\infty,\,\infty]$]]  
+Suficiências: [[Função absolutamente integrável|$f(x)$ e $g(x)$ devem ser absolutamente integrável nos intervalos $[-\infty,\,0]$, $[0,\,\infty]$ ou $[-\infty,\,\infty]$]]  
 Equivalências: _Não Aplicável_  
 Justificativas: _Não Aplicável_
 

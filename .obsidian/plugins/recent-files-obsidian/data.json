@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Álgebra Linear",
-      "path": "Notes/Álgebra Linear.md"
+      "basename": "Convolução",
+      "path": "Notes/Convolução.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Sinal impulso unitário",
+      "path": "Notes/Sinal impulso unitário.md"
+    },
+    {
+      "basename": "Sinais",
+      "path": "Notes/Sinais.md"
+    },
+    {
+      "basename": "Pente de Dirac",
+      "path": "Notes/Pente de Dirac.md"
+    },
+    {
+      "basename": "Série de Fourier do pente de Dirac",
+      "path": "Notes/Série de Fourier do pente de Dirac.md"
+    },
+    {
+      "basename": "Teorema da convolução",
+      "path": "Notes/Teorema da convolução.md"
+    },
+    {
+      "basename": "Sinal degrau unitário",
+      "path": "Notes/Sinal degrau unitário.md"
+    },
+    {
+      "basename": "Transformada de Laplace",
+      "path": "Notes/Transformada de Laplace.md"
+    },
+    {
+      "basename": "Sistemas",
+      "path": "Notes/Sistemas.md"
+    },
+    {
+      "basename": "Sistema linear invariante no tempo",
+      "path": "Notes/Sistema linear invariante no tempo.md"
+    },
+    {
+      "basename": "Cálculo diferencial",
+      "path": "Notes/Cálculo diferencial.md"
+    },
+    {
+      "basename": "Amostragem de sinais",
+      "path": "Notes/Amostragem de sinais.md"
+    },
+    {
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
+    },
+    {
+      "basename": "Delta de Dirac",
+      "path": "Notes/Delta de Dirac.md"
+    },
+    {
+      "basename": "Fórmula de Euler",
+      "path": "Notes/Fórmula de Euler.md"
     },
     {
       "basename": "Limite de funções no R",
@@ -17,52 +73,12 @@
       "path": "Notes/Circuitos DC.md"
     },
     {
-      "basename": "Convolução",
-      "path": "Notes/Convolução.md"
-    },
-    {
-      "basename": "Amostragem de sinais",
-      "path": "Notes/Amostragem de sinais.md"
-    },
-    {
-      "basename": "Pente de Dirac",
-      "path": "Notes/Pente de Dirac.md"
-    },
-    {
-      "basename": "Sinal degrau unitário",
-      "path": "Notes/Sinal degrau unitário.md"
-    },
-    {
-      "basename": "Sinais",
-      "path": "Notes/Sinais.md"
-    },
-    {
-      "basename": "Transformada de Laplace",
-      "path": "Notes/Transformada de Laplace.md"
-    },
-    {
-      "basename": "Fórmula de Euler",
-      "path": "Notes/Fórmula de Euler.md"
-    },
-    {
-      "basename": "Teorema da convolução",
-      "path": "Notes/Teorema da convolução.md"
-    },
-    {
       "basename": "Teorema",
       "path": "Templates/Teorema.md"
     },
     {
       "basename": "Princípio da superposição",
       "path": "Notes/Princípio da superposição.md"
-    },
-    {
-      "basename": "Sistema linear invariante no tempo",
-      "path": "Notes/Sistema linear invariante no tempo.md"
-    },
-    {
-      "basename": "Sistemas",
-      "path": "Notes/Sistemas.md"
     },
     {
       "basename": "Transformada de Fourier",
@@ -77,24 +93,12 @@
       "path": "Notes/Limites unilaterais.md"
     },
     {
-      "basename": "Delta de Dirac",
-      "path": "Notes/Delta de Dirac.md"
-    },
-    {
-      "basename": "Sinal impulso unitário",
-      "path": "Notes/Sinal impulso unitário.md"
-    },
-    {
       "basename": "Limites envolvendo infinito",
       "path": "Notes/Limites envolvendo infinito.md"
     },
     {
       "basename": "Geometria",
       "path": "Notes/Geometria.md"
-    },
-    {
-      "basename": "Cálculo diferencial",
-      "path": "Notes/Cálculo diferencial.md"
     },
     {
       "basename": "Função passo de Heaviside",

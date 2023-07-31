@@ -2,10 +2,10 @@ Tags: #Type/Definição #Topic/Cálculo #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  
-Construções: [[Amostragem de sinais]]  
+Construções: [[Amostragem de sinais|$(\Sha_{T}\cdot x)(t)=\sum\limits_{k=-\infty}^{\infty}x(t)\delta(t-kT)$]]  
 Generalizações: _Não Aplicável_
 
-Propriedades: _Não Aplicável_  
+Propriedades: [[Série de Fourier do pente de Dirac|$\Sha_{T}(t)=\frac{1}{T}\sum\limits_{n=-\infty}^{\infty}e^{j2\pi n {t\over T}}$]], [[Transformada de Fourier do pente de Dirac|$\Fo\{\Sha_T\}={2\pi\over T}\sum\limits_{k=-\infty}^{\infty}\delta(\omega -k{2\pi\over T})$]]
 Suficiências: _Não Aplicável_  
 Equivalências: _Não Aplicável_  
 Justificativas: _Não Aplicável_
@@ -14,7 +14,7 @@ Justificativas: _Não Aplicável_
 title: Definição.
 Também conhecido como **função sha**, **trem de impulsos** e **função de amostragem**, o pente de Dirac é uma distribuição feita a partir de [[Delta de Dirac|Deltas de Dirac]]:
 $$
-\Sha_{T}(t)= comb(t) := \sum\limits_{k=-\infty}^{\infty} \delta(t-kT), \, k\in\mathbb{Z}
+\Sha_{T}(t)= comb_T(t) := \sum\limits_{k=-\infty}^{\infty} \delta(t-kT), \, k\in\mathbb{Z}
 $$
 
 ```tikz
@@ -45,12 +45,3 @@ $$
 \end{tikzpicture}
 \end{document}
 ```
----
-**Nota**. Como o pente de Dirac é uma função *periódica*, ela pode ser representada como uma [[Série de Fourier|série de Fourier]] por meio da soma de exponenciais complexas:
-$$
-\Sha_T(t)={1\over T}\sum\limits_{n=-\infty}^{\infty}e^{2\pi jn\frac{t}{T}}
-$$
-
-<center>
-	<img src="https://public.dm.files.1drv.com/y4m1HWYiHtipBUvcyqtk-5tmP5IssyL451cPt-wGYkG9MwcjpjEyJN-xjJCvU6-5V_w5nIMMv4JGOXr2skdKZ6FGN0PBsMW2haiJRStn3cEyy-vZEct79D_aoNOQScWTL241YdaYzoYr-K6mUSMyndBIDRR8LxWB7rciRry5b8cmFFdS34zzJ5TXEYAYD61ekILLxfsiqRSwQ8K3K4Z4WQQv9Ws1GfQ09K2mfkJHTj_LUQ"  width="50%" height="260" />
-</center>
