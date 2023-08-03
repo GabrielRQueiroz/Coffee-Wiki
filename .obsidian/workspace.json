@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c89204ced888b60",
+        "id": "5db9e72ee9ebe113",
         "type": "tabs",
         "children": [
           {
-            "id": "19c355983a096bf9",
+            "id": "0c5659c7217454bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Convolução.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Convolução.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Convolução.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Convolução.md"
+                "file": "README.md"
               }
             }
           }
@@ -182,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19c355983a096bf9",
+  "active": "0c5659c7217454bb",
   "lastOpenFiles": [
     "README.md",
     "Notes/Sinais.md",

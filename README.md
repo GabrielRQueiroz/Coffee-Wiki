@@ -6,7 +6,7 @@ Esse é um repositório destinado às minhas anotações da UnB. Uma vez que est
 
 ## Contribuindo
 **ENTRETANTO**, sinta-se à vontade para **colaborar**! 
-Basta *fazer um fork*, no canto superior direito desse repositório, *adicionar quaisquer notas* desejadas seguindo um dos templates (veja [[#Tipos de notas]]) e, do seu repositório, *abrir a pull request* informando o que foi adicionado 😉
+Basta *fazer um fork*, no canto superior direito desse repositório, *adicionar quaisquer notas* desejadas seguindo um dos templates (veja [Tipos de notas](#Tipos de notas)) e, do seu repositório, *abrir a pull request* informando o que foi adicionado 😉
 <center>
 	<img width="80%" src="https://docs.github.com/assets/cb-79331/mw-1440/images/help/repository/fork_button.webp"/>
 </center>

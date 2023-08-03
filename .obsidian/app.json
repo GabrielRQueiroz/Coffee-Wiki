@@ -1,9 +1,6 @@
 {
   "defaultViewMode": "preview",
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true
 }
