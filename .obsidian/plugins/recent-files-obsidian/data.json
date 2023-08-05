@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Amostragem de sinais",
       "path": "Notes/Amostragem de sinais.md"
-    },
-    {
-      "basename": "Álgebra Linear",
-      "path": "Notes/Álgebra Linear.md"
     },
     {
       "basename": "Delta de Dirac",

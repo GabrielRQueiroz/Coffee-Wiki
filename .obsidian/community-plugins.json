@@ -15,5 +15,6 @@
   "tag-wrangler",
   "obsidian-tikzjax",
   "obsidian-git",
-  "obsidian-version-history-diff"
+  "obsidian-version-history-diff",
+  "obsidian-mkdocs-publisher"
 ]
