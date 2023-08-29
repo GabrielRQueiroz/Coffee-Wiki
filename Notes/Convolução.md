@@ -1,6 +1,6 @@
 Tags: #Type/Definição #Topic/Cálculo #Em_progresso
 
-Tipos: _Não Aplicável_ 
+Tipos: _Não Aplicável_  
 Exemplos: _Não Aplicável_  
 Construções: _Não Aplicável_  
 Generalizações: _Não Aplicável_

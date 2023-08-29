@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "0eed14d2417ecd0a",
+        "id": "bb93a9522925a979",
         "type": "tabs",
         "children": [
           {
-            "id": "ee91457f4efcf643",
+            "id": "f287309fdee00a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee94747a80cf4b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sinal impulso unitário.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134efd2486082e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Equações de Maxwell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eae2d547fdc022f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Convolução.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "Notes/Convolução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Álgebra Linear.md",
+                "file": "Notes/Convolução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Álgebra Linear.md"
+                "file": "Notes/Convolução.md"
               }
             }
           }
@@ -182,15 +222,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee91457f4efcf643",
+  "active": "3eae2d547fdc022f",
   "lastOpenFiles": [
-    "README.md",
+    "Notes/Equações de Maxwell.md",
     "Sem título.md",
+    "Notes/Campo eletromagnético.md",
+    "Notes/Princípio da superposição.md",
     "Notes/Sinais.md",
+    "Notes/Probabilidade e estatística.md",
+    "Notes/Limites unilaterais.md",
+    "Notes/Sinal impulso unitário.md",
+    "README.md",
     "Notes/Pente de Dirac.md",
     "Notes/Série de Fourier do pente de Dirac.md",
     "Notes/Teorema da convolução.md",
-    "Notes/Sinal impulso unitário.md",
     "Notes/Sinal degrau unitário.md",
     "Notes/Transformada de Laplace.md",
     "Notes/Sistemas.md",
@@ -206,11 +251,6 @@
     "Notes/Limite de funções no R.md",
     "Notes/Circuitos DC.md",
     "Notes",
-    "Templates/Teorema.md",
-    "Notes/Princípio da superposição.md",
-    "Notes/Transformada de Fourier.md",
-    "Notes/Probabilidade e estatística.md",
-    "Notes/Limites unilaterais.md",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
     "Assets/New Text Document.txt",

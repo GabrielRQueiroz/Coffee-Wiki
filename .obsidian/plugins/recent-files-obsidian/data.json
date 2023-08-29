@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Álgebra Linear",
-      "path": "Notes/Álgebra Linear.md"
+      "basename": "Convolução",
+      "path": "Notes/Convolução.md"
+    },
+    {
+      "basename": "Equações de Maxwell",
+      "path": "Notes/Equações de Maxwell.md"
+    },
+    {
+      "basename": "Campo eletromagnético",
+      "path": "Notes/Campo eletromagnético.md"
+    },
+    {
+      "basename": "Princípio da superposição",
+      "path": "Notes/Princípio da superposição.md"
+    },
+    {
+      "basename": "Sinais",
+      "path": "Notes/Sinais.md"
+    },
+    {
+      "basename": "Probabilidade e estatística",
+      "path": "Notes/Probabilidade e estatística.md"
+    },
+    {
+      "basename": "Limites unilaterais",
+      "path": "Notes/Limites unilaterais.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Convolução",
-      "path": "Notes/Convolução.md"
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
     },
     {
       "basename": "Sinal impulso unitário",
       "path": "Notes/Sinal impulso unitário.md"
-    },
-    {
-      "basename": "Sinais",
-      "path": "Notes/Sinais.md"
     },
     {
       "basename": "Pente de Dirac",
@@ -77,20 +97,8 @@
       "path": "Templates/Teorema.md"
     },
     {
-      "basename": "Princípio da superposição",
-      "path": "Notes/Princípio da superposição.md"
-    },
-    {
       "basename": "Transformada de Fourier",
       "path": "Notes/Transformada de Fourier.md"
-    },
-    {
-      "basename": "Probabilidade e estatística",
-      "path": "Notes/Probabilidade e estatística.md"
-    },
-    {
-      "basename": "Limites unilaterais",
-      "path": "Notes/Limites unilaterais.md"
     },
     {
       "basename": "Limites envolvendo infinito",
