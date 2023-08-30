@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb93a9522925a979",
+        "id": "ff99bbe329c2db01",
         "type": "tabs",
         "children": [
           {
-            "id": "f287309fdee00a82",
+            "id": "4f2b89d542754295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee94747a80cf4b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Sinal impulso unitário.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134efd2486082e32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Equações de Maxwell.md",
+                "file": "Notes/Expansão de Shannon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +21,12 @@
             }
           },
           {
-            "id": "3eae2d547fdc022f",
+            "id": "f5f40dbad19f4f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Convolução.md",
+                "file": "Notes/Mintermos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,10 +64,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#Topic/Circuitos",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -143,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Convolução.md",
+                "file": "Notes/Mintermos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Convolução.md",
+                "file": "Notes/Mintermos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Convolução.md"
+                "file": "Notes/Mintermos.md"
               }
             }
           }
@@ -222,34 +196,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eae2d547fdc022f",
+  "active": "f5f40dbad19f4f8c",
   "lastOpenFiles": [
-    "Notes/Equações de Maxwell.md",
-    "Sem título.md",
-    "Notes/Campo eletromagnético.md",
-    "Notes/Princípio da superposição.md",
-    "Notes/Sinais.md",
-    "Notes/Probabilidade e estatística.md",
-    "Notes/Limites unilaterais.md",
-    "Notes/Sinal impulso unitário.md",
-    "README.md",
-    "Notes/Pente de Dirac.md",
-    "Notes/Série de Fourier do pente de Dirac.md",
-    "Notes/Teorema da convolução.md",
-    "Notes/Sinal degrau unitário.md",
-    "Notes/Transformada de Laplace.md",
-    "Notes/Sistemas.md",
-    "Notes/Sistema linear invariante no tempo.md",
-    "Notes/Convolução.md",
-    "Notes/Cálculo diferencial.md",
-    "Notes/Amostragem de sinais.md",
-    "Notes/Álgebra Linear.md",
-    "Notes/Topico tal.md",
+    "Notes/Maxtermos.md",
+    "Notes/Mintermos.md",
     "Notes/Delta de Dirac.md",
-    "Notes/Fórmula de Euler.md",
-    "Home.md",
+    "README.md",
+    "Notes/Expansão de Shannon.md",
+    "Notes/Algebra de Boole.md",
+    "Notes/Teorema de DeMorgan.md",
+    "Notes/Série de Fourier do pente de Dirac.md",
+    "Notes/Probabilidade e estatística.md",
+    "Notes/Princípio da superposição.md",
+    "Notes/Portas lógicas.md",
+    "Notes/Pente de Dirac.md",
+    "Notes/Limites unilaterais.md",
+    "Notes/Limites envolvendo infinito.md",
+    "Notes/Limites de funções.md",
     "Notes/Limite de funções no R.md",
+    "Notes/Geometria.md",
+    "Notes/Função passo de Heaviside.md",
+    "Notes/Fórmula de Euler.md",
+    "Notes/Equações de Maxwell.md",
+    "Notes/Convolução.md",
     "Notes/Circuitos DC.md",
+    "Notes/Campo eletromagnético.md",
+    "Notes/Cálculo diferencial.md",
+    "Notes/Teorema da convolução.md",
+    "Notes/Sistemas.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
