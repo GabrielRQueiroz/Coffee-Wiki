@@ -1,4 +1,4 @@
-Tags: #Type/MOC #Em_progresso
+Tags: #Tipo/MOC #Em_progresso
 
 Contexto: _Não Aplicável_ 
 Excursões: _Não Aplicável_  

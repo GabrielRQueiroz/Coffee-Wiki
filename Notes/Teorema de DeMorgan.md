@@ -1,4 +1,4 @@
-Tags: #Topic/Álgebra #Type/Teorema #Em_progresso
+Tags: #Tópico/Álgebra #Tipo/Teorema #Em_progresso
 
 Provas: [[Tabela verdade da álgebra booliana]]
 Referência: _Não Aplicável_

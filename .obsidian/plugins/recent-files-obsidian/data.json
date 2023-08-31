@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Mintermos",
-      "path": "Notes/Mintermos.md"
+      "basename": "AND",
+      "path": "Notes/AND.md"
+    },
+    {
+      "basename": "Portas lógicas",
+      "path": "Notes/Portas lógicas.md"
+    },
+    {
+      "basename": "Produto de somas (maxtermos)",
+      "path": "Notes/Produto de somas (maxtermos).md"
     },
     {
       "basename": "Maxtermos",
       "path": "Notes/Maxtermos.md"
     },
     {
-      "basename": "Delta de Dirac",
-      "path": "Notes/Delta de Dirac.md"
+      "basename": "Soma de produtos (mintermos)",
+      "path": "Notes/Soma de produtos (mintermos).md"
+    },
+    {
+      "basename": "Mintermos",
+      "path": "Notes/Mintermos.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Delta de Dirac",
+      "path": "Notes/Delta de Dirac.md"
     },
     {
       "basename": "Expansão de Shannon",
@@ -39,10 +55,6 @@
     {
       "basename": "Princípio da superposição",
       "path": "Notes/Princípio da superposição.md"
-    },
-    {
-      "basename": "Portas lógicas",
-      "path": "Notes/Portas lógicas.md"
     },
     {
       "basename": "Pente de Dirac",

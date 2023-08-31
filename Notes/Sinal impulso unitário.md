@@ -1,4 +1,4 @@
-Tags: #Type/Definição #Topic/Circuitos #Em_progresso
+Tags: #Tipo/Definição #Tópico/Elétrica #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  

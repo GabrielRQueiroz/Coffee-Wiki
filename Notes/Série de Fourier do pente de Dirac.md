@@ -1,4 +1,4 @@
-Tags: #Type/Proposição #Em_progresso
+Tags: #Tipo/Proposição #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_

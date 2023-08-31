@@ -1,4 +1,4 @@
-Tags: #Type/MOC  #Topic/Cálculo
+Tags: #Tipo/MOC  #Tópico/Cálculo
 
 Contexto: _Não Aplicável_ 
 Excursões: _Não Aplicável_  

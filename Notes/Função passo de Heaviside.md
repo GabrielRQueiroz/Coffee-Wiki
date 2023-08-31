@@ -1,4 +1,4 @@
-Tags: #Type/Definição #Topic/Cálculo #Em_progresso
+Tags: #Tipo/Definição #Tópico/Cálculo #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: [[Sinal degrau unitário]]  

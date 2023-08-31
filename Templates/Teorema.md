@@ -1,4 +1,4 @@
-Tags: #Type/Teorema #Em_progresso
+Tags: #Tipo/Teorema #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_

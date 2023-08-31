@@ -1,4 +1,4 @@
-Tags: #Type/Axioma #Em_progresso 
+Tags: #Tipo/Axioma #Em_progresso 
 
 Equivalências: _Não aplicável_
 Construções: _Não aplicável_

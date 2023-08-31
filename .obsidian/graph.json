@@ -8,35 +8,35 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Type/MOC",
+      "query": "tag:#Tipo/MOC",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "tag:#Topic/Circuitos",
+      "query": "tag:#Tópico/Elétrica",
       "color": {
         "a": 1,
         "rgb": 16514826
       }
     },
     {
-      "query": "tag:#Topic/Cálculo",
+      "query": "tag:#Tópico/Cálculo",
       "color": {
         "a": 1,
         "rgb": 14374645
       }
     },
     {
-      "query": "tag:#Topic/Álgebra",
+      "query": "tag:#Tópico/Álgebra",
       "color": {
         "a": 1,
         "rgb": 4453443
       }
     },
     {
-      "query": "tag:#Topic/Probabilidade-e-Estatística",
+      "query": "tag:#Tópico/Probabilidade-e-Estatística",
       "color": {
         "a": 1,
         "rgb": 5767164
@@ -53,6 +53,6 @@
   "repelStrength": 11.0041481481481,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5334257528756626,
+  "scale": 0.34965970272166313,
   "close": true
 }

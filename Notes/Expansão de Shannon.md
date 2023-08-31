@@ -1,4 +1,4 @@
-Tags: #Topic/Circuitos #Type/Teorema #Em_progresso
+Tags: #Tópico/Elétrica #Tipo/Teorema #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_

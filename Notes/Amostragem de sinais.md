@@ -1,4 +1,4 @@
-Tags: #Type/Proposição #Topic/Circuitos #Em_progresso
+Tags: #Tipo/Proposição #Tópico/Elétrica #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: [[Pente de Dirac]], [[Delta de Dirac]]

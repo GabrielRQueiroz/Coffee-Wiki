@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ff99bbe329c2db01",
+        "id": "1c25b10d12fe4b8c",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2b89d542754295",
+            "id": "07c5f1636a3e8e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Expansão de Shannon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f40dbad19f4f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mintermos.md",
+                "file": "Notes/AND.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Topic/Circuitos",
+                "query": "#Tópico/Elétrica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mintermos.md",
+                "file": "Notes/AND.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mintermos.md",
+                "file": "Notes/AND.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mintermos.md"
+                "file": "Notes/AND.md"
               }
             }
           }
@@ -196,19 +182,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5f40dbad19f4f8c",
+  "active": "07c5f1636a3e8e57",
   "lastOpenFiles": [
+    "Notes/Portas lógicas.md",
+    "Notes/AND.md",
+    "Notes/Produto de somas (maxtermos).md",
     "Notes/Maxtermos.md",
+    "Notes/Soma de produtos (mintermos).md",
     "Notes/Mintermos.md",
-    "Notes/Delta de Dirac.md",
+    "Soma de mintermos.md",
     "README.md",
+    "Notes/Delta de Dirac.md",
     "Notes/Expansão de Shannon.md",
     "Notes/Algebra de Boole.md",
     "Notes/Teorema de DeMorgan.md",
     "Notes/Série de Fourier do pente de Dirac.md",
     "Notes/Probabilidade e estatística.md",
     "Notes/Princípio da superposição.md",
-    "Notes/Portas lógicas.md",
     "Notes/Pente de Dirac.md",
     "Notes/Limites unilaterais.md",
     "Notes/Limites envolvendo infinito.md",
@@ -220,10 +210,6 @@
     "Notes/Equações de Maxwell.md",
     "Notes/Convolução.md",
     "Notes/Circuitos DC.md",
-    "Notes/Campo eletromagnético.md",
-    "Notes/Cálculo diferencial.md",
-    "Notes/Teorema da convolução.md",
-    "Notes/Sistemas.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

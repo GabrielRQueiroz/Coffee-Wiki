@@ -1,4 +1,4 @@
-Tags: #Type/MOC #Topic/Probabilidade-e-Estatística #Em_progresso
+Tags: #Tipo/MOC #Tópico/Probabilidade-e-Estatística #Em_progresso
 
 Contexto: _Não Aplicável_ 
 Excursões: _Não Aplicável_  

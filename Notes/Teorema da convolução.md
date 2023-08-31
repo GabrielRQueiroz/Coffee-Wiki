@@ -1,4 +1,4 @@
-Tags: #Type/Teorema #Topic/Cálculo #Em_progresso
+Tags: #Tipo/Teorema #Tópico/Cálculo #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: [[Transformada de Laplace]], [[Convolução]]

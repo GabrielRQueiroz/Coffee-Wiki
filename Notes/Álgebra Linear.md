@@ -1,4 +1,4 @@
-Tags: #Type/MOC  #Topic/Álgebra
+Tags: #Tipo/MOC  #Tópico/Álgebra
 
 Contexto: _Não Aplicável_ 
 Excursões: _Não Aplicável_  

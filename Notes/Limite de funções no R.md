@@ -1,4 +1,4 @@
-Tags: #Type/Definição  #Topic/Cálculo 
+Tags: #Tipo/Definição  #Tópico/Cálculo 
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  

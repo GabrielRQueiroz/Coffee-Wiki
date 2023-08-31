@@ -1,4 +1,4 @@
-Tags: #Type/Definição #Topic/Cálculo 
+Tags: #Tipo/Definição #Tópico/Cálculo 
 
 Tipos: [[Limites unilaterais]], [[Limites envolvendo infinito]]
 Exemplos: _Não Aplicável_

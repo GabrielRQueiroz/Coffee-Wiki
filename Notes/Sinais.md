@@ -1,4 +1,4 @@
-Tags: #Type/Definição #Topic/Circuitos #Em_progresso
+Tags: #Tipo/Definição #Tópico/Elétrica #Em_progresso
 
 Tipos: [[Sinal impulso unitário]], [[Sinal degrau unitário|Degrau unitário]], [[Sinais senoidais]], [[Sinais exponenciais]]
 Exemplos: _Não Aplicável_  

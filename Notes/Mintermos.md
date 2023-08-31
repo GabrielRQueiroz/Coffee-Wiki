@@ -1,32 +1,32 @@
-Tags: #Topic/Álgebra #Type/Definição #Em_progresso
+Tags: #Tópico/Álgebra #Tipo/Definição #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  
 Construções: _Não Aplicável_  
 Generalizações: _Não Aplicável_
 
-Propriedades: _[[Soma de mintermos|$f(A,B,C)=ABC+\overline A BC+\cdots$]]_  
+Propriedades: [[Soma de produtos (mintermos)|$f(A,B,C)=(A\cdot B\cdot C)+ (\overline A \cdot \overline B \cdot C) + (\overline A \cdot B \cdot \overline C) + \cdots$]] 
 Suficiências: _Não Aplicável_  
 Equivalências: [[Maxtermos]]
 Justificativas: _Não Aplicável_
 
 ```ad-abstract
 title: Definição.
-Termo produto associado a cada linha da tabela verdade no qual todas as variáveis estão presentes 
+Termo produto de n variáveis no qual cada uma aparece uma única vez, negada ou não. Em sua expressão, se sua variável é 0, ela deve ser **negada**. Caso contrário, ela deve aparecer **não negada**.  
 $
-f(A,B,C)=A\overline B C
+f(A,B,C)=A\cdot B\cdot C
 $
 
 |A|B|C|Mintermo|
 |---|---|---|---------|
-|0|0|0|m0|
-|0|0|1|m1|
-|0|1|0|m2|
-|0|1|1|m3|
-|1|0|0|m4|
-|1|0|1|m5|
-|1|1|0|m6|
-|1|1|1|m7|
+|0|0|0|$m_{0}=\overline A \cdot \overline B \cdot \overline C$|
+|0|0|1|$m_{1}=\overline A \cdot \overline B \cdot C$|
+|0|1|0|$m_{2}=\overline A \cdot B \cdot \overline C$|
+|0|1|1|$m_{3}=\overline A \cdot B \cdot C$|
+|1|0|0|$m_{4}=A \cdot \overline B \cdot \overline C$|
+|1|0|1|$m_{5}=A \cdot \overline B \cdot C$|
+|1|1|0|$m_{6}=A \cdot B \cdot \overline C$|
+|1|1|1|$m_{7}=A \cdot B \cdot C$|
 
 ```
 ---
