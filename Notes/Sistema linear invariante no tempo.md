@@ -1,4 +1,4 @@
-Tags: #Tipo/Definição #Tópico/Elétrica #Em_progresso
+Tags: #Tipo/Definição #Tópico/Elétrica
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  

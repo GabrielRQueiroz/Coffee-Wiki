@@ -1,4 +1,4 @@
-Tags: #Tipo/Definição #Tópico/Elétrica #Em_progresso
+Tags: #Tipo/Definição #Tópico/Elétrica
 
 Tipos: [[Sistema linear invariante no tempo|SLIT]] 
 Exemplos: _Não Aplicável_  

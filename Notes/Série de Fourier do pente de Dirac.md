@@ -1,4 +1,4 @@
-Tags: #Tipo/Proposição #Em_progresso
+Tags: #Tipo/Proposição #Tópico/Cálculo 
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_
@@ -38,5 +38,7 @@ c_{n}&={1\over T}\int_{t_0}^{t_0+T}\Sha_T(t)e^{-j2\pi n {t\over T}}dt \quad (-\i
 $$
 Logo, todos os coeficientes de Fourier são $\frac{1}{T}$ resultando em
 $$\Sha_{T}(t)=\frac{1}{T}\sum\limits_{n=-\infty}^{\infty}e^{j2\pi n \frac{t}{T}}$$
+
 ---
+
 **Nota**. Foi considerada a frequência $f=\frac{1}{T}$ expressa em $Hz$, porém uma análise com a frequência $\omega = \frac{2\pi}{T}$ em $rad/s$ é **equivalente**.

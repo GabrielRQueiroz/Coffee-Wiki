@@ -1,6 +1,138 @@
 {
   "recentFiles": [
     {
+      "basename": "Transformada de Laplace",
+      "path": "Notes/Transformada de Laplace.md"
+    },
+    {
+      "basename": "Transformada de Fourier",
+      "path": "Notes/Transformada de Fourier.md"
+    },
+    {
+      "basename": "Teorema de DeMorgan",
+      "path": "Notes/Teorema de DeMorgan.md"
+    },
+    {
+      "basename": "Teorema da convolução",
+      "path": "Notes/Teorema da convolução.md"
+    },
+    {
+      "basename": "Teorema",
+      "path": "Templates/Teorema.md"
+    },
+    {
+      "basename": "Sistemas",
+      "path": "Notes/Sistemas.md"
+    },
+    {
+      "basename": "Sistema linear invariante no tempo",
+      "path": "Notes/Sistema linear invariante no tempo.md"
+    },
+    {
+      "basename": "Sinal impulso unitário",
+      "path": "Notes/Sinal impulso unitário.md"
+    },
+    {
+      "basename": "Sinal degrau unitário",
+      "path": "Notes/Sinal degrau unitário.md"
+    },
+    {
+      "basename": "Sinais",
+      "path": "Notes/Sinais.md"
+    },
+    {
+      "basename": "Série de Fourier do pente de Dirac",
+      "path": "Notes/Série de Fourier do pente de Dirac.md"
+    },
+    {
+      "basename": "Proposição",
+      "path": "Templates/Proposição.md"
+    },
+    {
+      "basename": "Probabilidade e estatística",
+      "path": "Notes/Probabilidade e estatística.md"
+    },
+    {
+      "basename": "Princípio da superposição",
+      "path": "Notes/Princípio da superposição.md"
+    },
+    {
+      "basename": "Portas lógicas",
+      "path": "Notes/Portas lógicas.md"
+    },
+    {
+      "basename": "Pente de Dirac",
+      "path": "Notes/Pente de Dirac.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "Mintermos",
+      "path": "Notes/Mintermos.md"
+    },
+    {
+      "basename": "Maxtermos",
+      "path": "Notes/Maxtermos.md"
+    },
+    {
+      "basename": "Limites unilaterais",
+      "path": "Notes/Limites unilaterais.md"
+    },
+    {
+      "basename": "Limites envolvendo infinito",
+      "path": "Notes/Limites envolvendo infinito.md"
+    },
+    {
+      "basename": "Função passo de Heaviside",
+      "path": "Notes/Função passo de Heaviside.md"
+    },
+    {
+      "basename": "Fórmula de Euler",
+      "path": "Notes/Fórmula de Euler.md"
+    },
+    {
+      "basename": "Expansão de Shannon",
+      "path": "Notes/Expansão de Shannon.md"
+    },
+    {
+      "basename": "Equações de Maxwell",
+      "path": "Notes/Equações de Maxwell.md"
+    },
+    {
+      "basename": "Delta de Dirac",
+      "path": "Notes/Delta de Dirac.md"
+    },
+    {
+      "basename": "Circuitos DC",
+      "path": "Notes/Circuitos DC.md"
+    },
+    {
+      "basename": "Definição",
+      "path": "Templates/Definição.md"
+    },
+    {
+      "basename": "Convolução",
+      "path": "Notes/Convolução.md"
+    },
+    {
+      "basename": "Campo eletromagnético",
+      "path": "Notes/Campo eletromagnético.md"
+    },
+    {
+      "basename": "Amostragem de sinais",
+      "path": "Notes/Amostragem de sinais.md"
+    },
+    {
+      "basename": "Algebra de Boole",
+      "path": "Notes/Algebra de Boole.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Métodos iterativos",
       "path": "Notes/Métodos iterativos.md"
     },
@@ -17,68 +149,8 @@
       "path": "Notes/Teorema do valor intermediário (TVI).md"
     },
     {
-      "basename": "Portas lógicas",
-      "path": "Notes/Portas lógicas.md"
-    },
-    {
-      "basename": "Função passo de Heaviside",
-      "path": "Notes/Função passo de Heaviside.md"
-    },
-    {
       "basename": "Soma de produtos (mintermos)",
       "path": "Notes/Soma de produtos (mintermos).md"
-    },
-    {
-      "basename": "Expansão de Shannon",
-      "path": "Notes/Expansão de Shannon.md"
-    },
-    {
-      "basename": "Mintermos",
-      "path": "Notes/Mintermos.md"
-    },
-    {
-      "basename": "Maxtermos",
-      "path": "Notes/Maxtermos.md"
-    },
-    {
-      "basename": "Delta de Dirac",
-      "path": "Notes/Delta de Dirac.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Algebra de Boole",
-      "path": "Notes/Algebra de Boole.md"
-    },
-    {
-      "basename": "Teorema de DeMorgan",
-      "path": "Notes/Teorema de DeMorgan.md"
-    },
-    {
-      "basename": "Série de Fourier do pente de Dirac",
-      "path": "Notes/Série de Fourier do pente de Dirac.md"
-    },
-    {
-      "basename": "Probabilidade e estatística",
-      "path": "Notes/Probabilidade e estatística.md"
-    },
-    {
-      "basename": "Princípio da superposição",
-      "path": "Notes/Princípio da superposição.md"
-    },
-    {
-      "basename": "Pente de Dirac",
-      "path": "Notes/Pente de Dirac.md"
-    },
-    {
-      "basename": "Limites unilaterais",
-      "path": "Notes/Limites unilaterais.md"
-    },
-    {
-      "basename": "Limites envolvendo infinito",
-      "path": "Notes/Limites envolvendo infinito.md"
     },
     {
       "basename": "Limites de funções",
@@ -93,84 +165,12 @@
       "path": "Notes/Geometria.md"
     },
     {
-      "basename": "Fórmula de Euler",
-      "path": "Notes/Fórmula de Euler.md"
-    },
-    {
-      "basename": "Equações de Maxwell",
-      "path": "Notes/Equações de Maxwell.md"
-    },
-    {
-      "basename": "Convolução",
-      "path": "Notes/Convolução.md"
-    },
-    {
-      "basename": "Circuitos DC",
-      "path": "Notes/Circuitos DC.md"
-    },
-    {
-      "basename": "Campo eletromagnético",
-      "path": "Notes/Campo eletromagnético.md"
-    },
-    {
       "basename": "Cálculo diferencial",
       "path": "Notes/Cálculo diferencial.md"
     },
     {
-      "basename": "Teorema da convolução",
-      "path": "Notes/Teorema da convolução.md"
-    },
-    {
-      "basename": "Sistemas",
-      "path": "Notes/Sistemas.md"
-    },
-    {
-      "basename": "Transformada de Fourier",
-      "path": "Notes/Transformada de Fourier.md"
-    },
-    {
-      "basename": "Sistema linear invariante no tempo",
-      "path": "Notes/Sistema linear invariante no tempo.md"
-    },
-    {
-      "basename": "Sinal degrau unitário",
-      "path": "Notes/Sinal degrau unitário.md"
-    },
-    {
-      "basename": "Sinal impulso unitário",
-      "path": "Notes/Sinal impulso unitário.md"
-    },
-    {
-      "basename": "Sinais",
-      "path": "Notes/Sinais.md"
-    },
-    {
-      "basename": "Amostragem de sinais",
-      "path": "Notes/Amostragem de sinais.md"
-    },
-    {
       "basename": "Álgebra Linear",
       "path": "Notes/Álgebra Linear.md"
-    },
-    {
-      "basename": "Transformada de Laplace",
-      "path": "Notes/Transformada de Laplace.md"
-    },
-    {
-      "basename": "Teorema",
-      "path": "Templates/Teorema.md"
-    },
-    {
-      "basename": "Proposição",
-      "path": "Templates/Proposição.md"
-    },
-    {
-      "basename": "Definição",
-      "path": "Templates/Definição.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
     },
     {
       "basename": "Axioma",

@@ -12,7 +12,7 @@ title: Teorema.
 ```
 ---
 
-**Prova**. 
+**Exemplo**. 
 $$
 \begin{align}
 \begin{aligned}
