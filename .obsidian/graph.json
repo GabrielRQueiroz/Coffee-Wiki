@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Tópico/Elétrica",
+      "query": "tag:#Tópico/Circuitos",
       "color": {
         "a": 1,
         "rgb": 16514826
@@ -25,7 +25,7 @@
       "query": "tag:#Tópico/Cálculo",
       "color": {
         "a": 1,
-        "rgb": 14374645
+        "rgb": 13915118
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 11.0041481481481,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.34965970272166313,
-  "close": true
+  "scale": 0.12708487075831293,
+  "close": false
 }

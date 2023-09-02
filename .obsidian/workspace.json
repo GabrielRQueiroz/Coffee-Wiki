@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1c25b10d12fe4b8c",
+        "id": "ff99bbe329c2db01",
         "type": "tabs",
         "children": [
           {
-            "id": "07c5f1636a3e8e57",
+            "id": "4f2b89d542754295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AND.md",
+                "file": "Notes/Expansão de Shannon.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5f40dbad19f4f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Métodos iterativos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Tópico/Elétrica",
+                "query": "#Topic/Circuitos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/AND.md",
+                "file": "Notes/Métodos iterativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/AND.md",
+                "file": "Notes/Métodos iterativos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AND.md"
+                "file": "Notes/Métodos iterativos.md"
               }
             }
           }
@@ -182,18 +196,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07c5f1636a3e8e57",
+  "active": "f5f40dbad19f4f8c",
   "lastOpenFiles": [
+    "Notes/Zero de funções reais.md",
+    "Notes/Métodos iterativos.md",
+    "Notes/Teorema fundamental da álgebra (TFA).md",
+    "Notes/Teorema do valor intermediário (TVI).md",
     "Notes/Portas lógicas.md",
+    "Notes/Função passo de Heaviside.md",
+    "Notes/Sem título.md",
+    "Notes/Função polinomial.md",
+    "Notes/Soma de produtos (mintermos).md",
+    "Notes/Expansão de Shannon.md",
     "Notes/AND.md",
+    "Notes/Mintermos.md",
     "Notes/Produto de somas (maxtermos).md",
     "Notes/Maxtermos.md",
-    "Notes/Soma de produtos (mintermos).md",
-    "Notes/Mintermos.md",
-    "Soma de mintermos.md",
-    "README.md",
     "Notes/Delta de Dirac.md",
-    "Notes/Expansão de Shannon.md",
+    "README.md",
     "Notes/Algebra de Boole.md",
     "Notes/Teorema de DeMorgan.md",
     "Notes/Série de Fourier do pente de Dirac.md",
@@ -204,12 +224,6 @@
     "Notes/Limites envolvendo infinito.md",
     "Notes/Limites de funções.md",
     "Notes/Limite de funções no R.md",
-    "Notes/Geometria.md",
-    "Notes/Função passo de Heaviside.md",
-    "Notes/Fórmula de Euler.md",
-    "Notes/Equações de Maxwell.md",
-    "Notes/Convolução.md",
-    "Notes/Circuitos DC.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

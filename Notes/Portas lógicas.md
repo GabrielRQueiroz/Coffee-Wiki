@@ -2,7 +2,7 @@ Tags: #Tópico/Elétrica  #Tipo/Definição #Em_progresso
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  
-Construções: [[AND]], [[OR]], [[NOT]], [[NAND]], [[NOR]], [[XOR]], [[XNOR]]
+Construções: [[Porta AND|AND]], [[Porta OR|OR]], [[Porta NOT|NOT]], [[Porta NAND|NAND]], [[Porta NOR|NOR]], [[Porta XOR|XOR]], [[Porta XNOR|XNOR]]
 Generalizações: _Não Aplicável_
 
 Propriedades: _Não Aplicável_  

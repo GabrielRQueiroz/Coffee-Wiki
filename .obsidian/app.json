@@ -2,5 +2,7 @@
   "defaultViewMode": "preview",
   "spellcheckLanguages": null,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
 }

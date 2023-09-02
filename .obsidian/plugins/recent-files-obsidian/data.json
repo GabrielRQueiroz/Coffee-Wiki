@@ -1,40 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "AND",
-      "path": "Notes/AND.md"
+      "basename": "Métodos iterativos",
+      "path": "Notes/Métodos iterativos.md"
+    },
+    {
+      "basename": "Zero de funções reais",
+      "path": "Notes/Zero de funções reais.md"
+    },
+    {
+      "basename": "Teorema fundamental da álgebra (TFA)",
+      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
+    },
+    {
+      "basename": "Teorema do valor intermediário (TVI)",
+      "path": "Notes/Teorema do valor intermediário (TVI).md"
     },
     {
       "basename": "Portas lógicas",
       "path": "Notes/Portas lógicas.md"
     },
     {
-      "basename": "Produto de somas (maxtermos)",
-      "path": "Notes/Produto de somas (maxtermos).md"
-    },
-    {
-      "basename": "Maxtermos",
-      "path": "Notes/Maxtermos.md"
+      "basename": "Função passo de Heaviside",
+      "path": "Notes/Função passo de Heaviside.md"
     },
     {
       "basename": "Soma de produtos (mintermos)",
       "path": "Notes/Soma de produtos (mintermos).md"
     },
     {
+      "basename": "Expansão de Shannon",
+      "path": "Notes/Expansão de Shannon.md"
+    },
+    {
       "basename": "Mintermos",
       "path": "Notes/Mintermos.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Maxtermos",
+      "path": "Notes/Maxtermos.md"
     },
     {
       "basename": "Delta de Dirac",
       "path": "Notes/Delta de Dirac.md"
     },
     {
-      "basename": "Expansão de Shannon",
-      "path": "Notes/Expansão de Shannon.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Algebra de Boole",
@@ -79,10 +91,6 @@
     {
       "basename": "Geometria",
       "path": "Notes/Geometria.md"
-    },
-    {
-      "basename": "Função passo de Heaviside",
-      "path": "Notes/Função passo de Heaviside.md"
     },
     {
       "basename": "Fórmula de Euler",
