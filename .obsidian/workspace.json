@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e307726cb65116fc",
+        "id": "05c4a148af9cd1dd",
         "type": "tabs",
         "children": [
           {
-            "id": "32be8055f6a2174b",
+            "id": "0cdb7f190a2bc66d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ed8f3d40797fb220",
+            "id": "3623452a758281d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Estimativa do número de iterações.md",
+                "file": "Notes/Coordenadas cilíndricas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Estimativa do número de iterações.md",
+                "file": "Notes/Coordenadas cilíndricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Estimativa do número de iterações.md",
+                "file": "Notes/Coordenadas cilíndricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Estimativa do número de iterações.md"
+                "file": "Notes/Coordenadas cilíndricas.md"
               }
             }
           }
@@ -197,8 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed8f3d40797fb220",
+  "active": "3623452a758281d0",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Coordenadas cilíndricas.md",
     "Notes/Métodos iterativos.md",
     "Notes/Estimativa do número de iterações.md",
     "Notes/Método de bissecção.md",
@@ -223,8 +225,6 @@
     "Templates/MOC.md",
     "Notes/Mintermos.md",
     "Notes/Maxtermos.md",
-    "Notes/Limites unilaterais.md",
-    "Notes/Limites envolvendo infinito.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

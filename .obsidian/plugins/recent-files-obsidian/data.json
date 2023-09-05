@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Coordenadas cilíndricas",
+      "path": "Notes/Coordenadas cilíndricas.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Estimativa do número de iterações",
       "path": "Notes/Estimativa do número de iterações.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Estudo de convergência do método da bissecção",
       "path": "Notes/Estudo de convergência do método da bissecção.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Localização de raízes",
