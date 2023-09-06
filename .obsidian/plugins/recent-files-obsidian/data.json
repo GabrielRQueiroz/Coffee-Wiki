@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Coordenadas cilíndricas",
-      "path": "Notes/Coordenadas cilíndricas.md"
+      "basename": "Mapa de Karnaugh",
+      "path": "Notes/Mapa de Karnaugh.md"
+    },
+    {
+      "basename": "Sistemas digitais",
+      "path": "Notes/Sistemas digitais.md"
+    },
+    {
+      "basename": "Porta NOT",
+      "path": "Notes/Porta NOT.md"
+    },
+    {
+      "basename": "Teorema de DeMorgan",
+      "path": "Notes/Teorema de DeMorgan.md"
+    },
+    {
+      "basename": "Porta XNOR",
+      "path": "Notes/Porta XNOR.md"
+    },
+    {
+      "basename": "Portas lógicas",
+      "path": "Notes/Portas lógicas.md"
+    },
+    {
+      "basename": "Porta XOR",
+      "path": "Notes/Porta XOR.md"
+    },
+    {
+      "basename": "Porta NOR",
+      "path": "Notes/Porta NOR.md"
+    },
+    {
+      "basename": "Porta NAND",
+      "path": "Notes/Porta NAND.md"
+    },
+    {
+      "basename": "Porta OR",
+      "path": "Notes/Porta OR.md"
+    },
+    {
+      "basename": "Porta AND",
+      "path": "Notes/Porta AND.md"
+    },
+    {
+      "basename": "Delta de Dirac",
+      "path": "Notes/Delta de Dirac.md"
+    },
+    {
+      "basename": "Sinal impulso unitário",
+      "path": "Notes/Sinal impulso unitário.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Coordenadas cilíndricas",
+      "path": "Notes/Coordenadas cilíndricas.md"
     },
     {
       "basename": "Estimativa do número de iterações",
@@ -19,10 +71,6 @@
     {
       "basename": "Método de bissecção",
       "path": "Notes/Método de bissecção.md"
-    },
-    {
-      "basename": "Sinal impulso unitário",
-      "path": "Notes/Sinal impulso unitário.md"
     },
     {
       "basename": "Estudo de convergência do método da bissecção",
@@ -39,10 +87,6 @@
     {
       "basename": "Transformada de Fourier",
       "path": "Notes/Transformada de Fourier.md"
-    },
-    {
-      "basename": "Teorema de DeMorgan",
-      "path": "Notes/Teorema de DeMorgan.md"
     },
     {
       "basename": "Teorema da convolução",
@@ -85,10 +129,6 @@
       "path": "Notes/Princípio da superposição.md"
     },
     {
-      "basename": "Portas lógicas",
-      "path": "Notes/Portas lógicas.md"
-    },
-    {
       "basename": "Pente de Dirac",
       "path": "Notes/Pente de Dirac.md"
     },
@@ -129,10 +169,6 @@
       "path": "Notes/Equações de Maxwell.md"
     },
     {
-      "basename": "Delta de Dirac",
-      "path": "Notes/Delta de Dirac.md"
-    },
-    {
       "basename": "Circuitos DC",
       "path": "Notes/Circuitos DC.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "Teorema fundamental da álgebra (TFA)",
       "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Teorema do valor intermediário (TVI)",
-      "path": "Notes/Teorema do valor intermediário (TVI).md"
-    },
-    {
-      "basename": "Soma de produtos (mintermos)",
-      "path": "Notes/Soma de produtos (mintermos).md"
-    },
-    {
-      "basename": "Limites de funções",
-      "path": "Notes/Limites de funções.md"
-    },
-    {
-      "basename": "Limite de funções no R",
-      "path": "Notes/Limite de funções no R.md"
-    },
-    {
-      "basename": "Geometria",
-      "path": "Notes/Geometria.md"
-    },
-    {
-      "basename": "Cálculo diferencial",
-      "path": "Notes/Cálculo diferencial.md"
-    },
-    {
-      "basename": "Álgebra Linear",
-      "path": "Notes/Álgebra Linear.md"
-    },
-    {
-      "basename": "Axioma",
-      "path": "Templates/Axioma.md"
     }
   ],
   "omittedPaths": [],
