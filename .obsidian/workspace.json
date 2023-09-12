@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a7e2ab4b0e78f87d",
+        "id": "4c0784f258c96a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "9680f89af6d7ba2d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f83e318e6cd5e3df",
+            "id": "ad31f4aa5760467d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sistemas digitais.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d2fce7d7efbc1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
+                "file": "Notes/Método do ponto fixo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tipo/Definição",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -89,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bdd715eddd3b1ffe",
@@ -126,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
+                "file": "Notes/Método do ponto fixo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
+                "file": "Notes/Método do ponto fixo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md"
+                "file": "Notes/Método do ponto fixo.md"
+              }
+            }
+          },
+          {
+            "id": "ecef88411b4bb8e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -205,8 +192,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d2fce7d7efbc1e1",
+  "active": "ad31f4aa5760467d",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Teorema do ponto fixo de Brouler.md",
+    "Notes/Geometria.md",
+    "Notes/Método do ponto fixo.md",
+    "Notes/Teorema do valor intermediário (TVI).md",
+    "Notes/Ponto fixo.md",
+    "Notes/Métodos iterativos.md",
+    "Notes/Zero de funções reais.md",
+    "Notes/Campo eletromagnético.md",
     "Notes/Sistemas digitais.md",
     "Notes/Mapa de Karnaugh.md",
     "Notes/Porta NOT.md",
@@ -220,19 +216,10 @@
     "Notes/Porta AND.md",
     "Notes/Delta de Dirac.md",
     "Notes/Sinal impulso unitário.md",
-    "README.md",
     "Notes/Coordenadas cilíndricas.md",
-    "Notes/Métodos iterativos.md",
     "Notes/Estimativa do número de iterações.md",
     "Notes/Método de bissecção.md",
     "Notes/Estudo de convergência do método da bissecção.md",
-    "Notes/Localização de raízes.md",
-    "Notes/Transformada de Laplace.md",
-    "Notes/Transformada de Fourier.md",
-    "Notes/Teorema da convolução.md",
-    "Templates/Teorema.md",
-    "Notes/Sistemas.md",
-    "Notes/Sistema linear invariante no tempo.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

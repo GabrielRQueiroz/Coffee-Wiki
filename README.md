@@ -28,7 +28,7 @@ Definição de um `objeto` ou de uma `noção`, que é vinculado a:
 - _Justificativas:_ Provas da definição  do `objeto`/ `noção`.
 ---
 ### Proposição e teorema:
-**Diferenciados pelo grau de importância,** incluem ambos `afirmação` e `prova` a respeito do `objeto`/ `noção`, que são vinculador a:
+**Diferenciados pelo grau de importância,** incluem ambos `afirmação` e `prova` a respeito do `objeto`/ `noção`, que são vinculados a:
 - _Provas_: Afirmações das quais a `prova` depende crucialmente;
 - _Referência_: Anotações às quais as provas da `afirmação` (ou seus corolários) são delegadas;
 - _Justificativa_: Provas da assunção implícita do `objeto`/ `noção` na `afirmação`;

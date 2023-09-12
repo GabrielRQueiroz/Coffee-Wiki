@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#Tópico/El",
+  "search": "tag:#Tópico/Cálculo  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 11.0041481481481,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.47865641400521575,
-  "close": true
+  "scale": 0.3627456151869621,
+  "close": false
 }

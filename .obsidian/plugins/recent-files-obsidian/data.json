@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Teorema do ponto fixo de Brouler",
+      "path": "Notes/Teorema do ponto fixo de Brouler.md"
+    },
+    {
+      "basename": "Geometria",
+      "path": "Notes/Geometria.md"
+    },
+    {
+      "basename": "Teorema do valor intermediário (TVI)",
+      "path": "Notes/Teorema do valor intermediário (TVI).md"
+    },
+    {
+      "basename": "Ponto fixo",
+      "path": "Notes/Ponto fixo.md"
+    },
+    {
+      "basename": "Métodos iterativos",
+      "path": "Notes/Métodos iterativos.md"
+    },
+    {
+      "basename": "Zero de funções reais",
+      "path": "Notes/Zero de funções reais.md"
+    },
+    {
+      "basename": "Campo eletromagnético",
+      "path": "Notes/Campo eletromagnético.md"
+    },
+    {
       "basename": "Mapa de Karnaugh",
       "path": "Notes/Mapa de Karnaugh.md"
     },
@@ -53,20 +89,12 @@
       "path": "Notes/Sinal impulso unitário.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Coordenadas cilíndricas",
       "path": "Notes/Coordenadas cilíndricas.md"
     },
     {
       "basename": "Estimativa do número de iterações",
       "path": "Notes/Estimativa do número de iterações.md"
-    },
-    {
-      "basename": "Métodos iterativos",
-      "path": "Notes/Métodos iterativos.md"
     },
     {
       "basename": "Método de bissecção",
@@ -171,34 +199,6 @@
     {
       "basename": "Circuitos DC",
       "path": "Notes/Circuitos DC.md"
-    },
-    {
-      "basename": "Definição",
-      "path": "Templates/Definição.md"
-    },
-    {
-      "basename": "Convolução",
-      "path": "Notes/Convolução.md"
-    },
-    {
-      "basename": "Campo eletromagnético",
-      "path": "Notes/Campo eletromagnético.md"
-    },
-    {
-      "basename": "Amostragem de sinais",
-      "path": "Notes/Amostragem de sinais.md"
-    },
-    {
-      "basename": "Algebra de Boole",
-      "path": "Notes/Algebra de Boole.md"
-    },
-    {
-      "basename": "Zero de funções reais",
-      "path": "Notes/Zero de funções reais.md"
-    },
-    {
-      "basename": "Teorema fundamental da álgebra (TFA)",
-      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
     }
   ],
   "omittedPaths": [],

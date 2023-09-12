@@ -2,7 +2,7 @@ Tags: #Tópico/Cálculo #Tipo/Definição #Em_progresso
 
 Tipos: [[Função polinomial]]
 Exemplos: _Não Aplicável_  
-Construções: _Não Aplicável_
+Construções: [[Métodos iterativos]], [[Método do ponto fixo]]
 Generalizações: _Não Aplicável_
 
 Propriedades: _Não Aplicável_  

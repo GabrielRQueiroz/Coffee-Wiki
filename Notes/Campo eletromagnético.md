@@ -1,4 +1,4 @@
-Tags: #Tipo/Definição #Em_progresso
+Tags: #Tipo/Definição #Tópico/Elétrica #Em_progresso
 
 Tipos: [[Campo elétrico]], [[Campo magnético]]
 Exemplos: _Não Aplicável_  
