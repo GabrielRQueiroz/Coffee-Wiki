@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Coordenadas esféricas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bdd715eddd3b1ffe",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Coordenadas esféricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Coordenadas esféricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Método do ponto fixo.md"
+                "file": "Notes/Coordenadas esféricas.md"
               }
             }
           },
@@ -194,10 +195,16 @@
   },
   "active": "ad31f4aa5760467d",
   "lastOpenFiles": [
-    "README.md",
-    "Notes/Teorema do ponto fixo de Brouler.md",
-    "Notes/Geometria.md",
+    "Notes/Coordenadas cilíndricas.md",
+    "Notes/Coordenadas esféricas.md",
+    "Notes/Geometria analítica.md",
+    "Notes/Cálculo diferencial.md",
+    "Notes/Coordenadas cartesianas.md",
     "Notes/Método do ponto fixo.md",
+    "Notes/Geometria.md",
+    "README.md",
+    "Notes/Sem título.md",
+    "Notes/Teorema do ponto fixo de Brouler.md",
     "Notes/Teorema do valor intermediário (TVI).md",
     "Notes/Ponto fixo.md",
     "Notes/Métodos iterativos.md",
@@ -214,12 +221,6 @@
     "Notes/Porta NAND.md",
     "Notes/Porta OR.md",
     "Notes/Porta AND.md",
-    "Notes/Delta de Dirac.md",
-    "Notes/Sinal impulso unitário.md",
-    "Notes/Coordenadas cilíndricas.md",
-    "Notes/Estimativa do número de iterações.md",
-    "Notes/Método de bissecção.md",
-    "Notes/Estudo de convergência do método da bissecção.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

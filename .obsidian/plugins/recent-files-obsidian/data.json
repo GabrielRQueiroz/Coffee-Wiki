@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Coordenadas esféricas",
+      "path": "Notes/Coordenadas esféricas.md"
+    },
+    {
+      "basename": "Coordenadas cilíndricas",
+      "path": "Notes/Coordenadas cilíndricas.md"
+    },
+    {
+      "basename": "Geometria analítica",
+      "path": "Notes/Geometria analítica.md"
+    },
+    {
+      "basename": "Cálculo diferencial",
+      "path": "Notes/Cálculo diferencial.md"
+    },
+    {
+      "basename": "Coordenadas cartesianas",
+      "path": "Notes/Coordenadas cartesianas.md"
+    },
+    {
       "basename": "Método do ponto fixo",
       "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Geometria",
+      "path": "Notes/Geometria.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Teorema do ponto fixo de Brouler",
-      "path": "Notes/Teorema do ponto fixo de Brouler.md"
+      "basename": "Sem título",
+      "path": "Notes/Sem título.md"
     },
     {
-      "basename": "Geometria",
-      "path": "Notes/Geometria.md"
+      "basename": "Teorema do ponto fixo de Brouler",
+      "path": "Notes/Teorema do ponto fixo de Brouler.md"
     },
     {
       "basename": "Teorema do valor intermediário (TVI)",
@@ -87,10 +111,6 @@
     {
       "basename": "Sinal impulso unitário",
       "path": "Notes/Sinal impulso unitário.md"
-    },
-    {
-      "basename": "Coordenadas cilíndricas",
-      "path": "Notes/Coordenadas cilíndricas.md"
     },
     {
       "basename": "Estimativa do número de iterações",
@@ -179,26 +199,6 @@
     {
       "basename": "Limites envolvendo infinito",
       "path": "Notes/Limites envolvendo infinito.md"
-    },
-    {
-      "basename": "Função passo de Heaviside",
-      "path": "Notes/Função passo de Heaviside.md"
-    },
-    {
-      "basename": "Fórmula de Euler",
-      "path": "Notes/Fórmula de Euler.md"
-    },
-    {
-      "basename": "Expansão de Shannon",
-      "path": "Notes/Expansão de Shannon.md"
-    },
-    {
-      "basename": "Equações de Maxwell",
-      "path": "Notes/Equações de Maxwell.md"
-    },
-    {
-      "basename": "Circuitos DC",
-      "path": "Notes/Circuitos DC.md"
     }
   ],
   "omittedPaths": [],
