@@ -25,7 +25,9 @@ A melhoria do valor pode ser feita de tal modo que a cada $k$-ésima interação
 |---|---|---|---|---|
 |$f(x)$|$-$|$-$|$+$|...|
 
-- Pelo TVI, a raiz deve estar entre $x=1$ e $x=2$.
+
+> Pelo TVI, a raiz deve estar entre $x=1$ e $x=2$.
+
 
 $$
 \begin{aligned}
@@ -38,7 +40,8 @@ $$
 \end{align}
 \end{aligned}
 $$
-- Para um erro $\epsilon = 0.2$, tem-se que $[a,\,b]=[1,\,2],\, |b-a|=1 \gt \epsilon$. Logo, precisamos de um novo intervalo mais curto para diminuir o erro.
+> Para um erro $\epsilon = 0.2$, tem-se que $[a,\,b]=[1,\,2],\, |b-a|=1 \gt \epsilon$. Logo, precisamos de um novo intervalo mais curto para diminuir o erro.
+
 $$
 \begin{aligned}
 \begin{align}
@@ -46,12 +49,13 @@ M_0=\frac{a_0+b_0}{2}=\frac{1+2}{2}=\frac{3}{2}=1.5
 \end{align}
 \end{aligned}
 $$
-- Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
+> Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
 
 |$x$|1|1.5|2|
 |---|---|---|---|
 |$f(x)$|$-$|$-$|$+$|
-- Pelo TVI, a raiz deve estar entre $x=1.5$ e $x=2$, ou seja, $\xi \in [1.5,\,2]$
+
+> Pelo TVI, a raiz deve estar entre $x=1.5$ e $x=2$, ou seja, $\xi \in [1.5,\,2]$
 
 $$
 \begin{aligned}
@@ -65,12 +69,13 @@ $$
 \end{align}
 \end{aligned}
 $$
-- Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
+> Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
 
 |$x$|1.5|1.75|2|
 |---|---|---|---|
 |$f(x)$|$-$|$+$|$+$|
-- Pelo TVI, a raiz deve estar entre $x=1.5$ e $x=1.75$, ou seja, $\xi \in [1.5,\,1.75]$
+
+ > Pelo TVI, a raiz deve estar entre $x=1.5$ e $x=1.75$, ou seja, $\xi \in [1.5,\,1.75]$
 
 $$
 \begin{aligned}
@@ -84,17 +89,18 @@ $$
 \end{align}
 \end{aligned}
 $$
-- Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
+> Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
 
 |$x$|1.5|1.625|1.75|
 |---|---|---|---|
 |$f(x)$|$-$|$-$|$+$|
-- Pelo TVI, a raiz deve estar entre $x=1.625$ e $x=1.75$, ou seja, $\xi \in [1.625,\,1.75]$
+
+ > Pelo TVI, a raiz deve estar entre $x=1.625$ e $x=1.75$, ou seja, $\xi \in [1.625,\,1.75]$
 
 $$
 \begin{aligned}
 \begin{align}
-|b_3-a_{3|}& =|1.75-1.625|=0.125 \lt \epsilon
+|b_3-a_{3}|& =|1.75-1.625|=0.125 \lt \epsilon
 \\\\
 \therefore \overline \xi & = \frac{1.625+1.75}{2}
 \\

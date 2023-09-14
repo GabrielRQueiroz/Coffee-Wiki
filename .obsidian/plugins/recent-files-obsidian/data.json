@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
+      "basename": "Método de Newton-Raphson",
+      "path": "Notes/Método de Newton-Raphson.md"
+    },
+    {
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Teorema fundamental da álgebra (TFA)",
+      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
     },
     {
       "basename": "Método de Petrick",
       "path": "Notes/Método de Petrick.md"
+    },
+    {
+      "basename": "Método de Quine-McCluskey",
+      "path": "Notes/Método de Quine-McCluskey.md"
     },
     {
       "basename": "Algebra de Boole",
@@ -47,10 +63,6 @@
     {
       "basename": "Coordenadas cartesianas",
       "path": "Notes/Coordenadas cartesianas.md"
-    },
-    {
-      "basename": "Método do ponto fixo",
-      "path": "Notes/Método do ponto fixo.md"
     },
     {
       "basename": "Geometria",
@@ -137,10 +149,6 @@
       "path": "Notes/Estimativa do número de iterações.md"
     },
     {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
-    },
-    {
       "basename": "Estudo de convergência do método da bissecção",
       "path": "Notes/Estudo de convergência do método da bissecção.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Probabilidade e estatística",
       "path": "Notes/Probabilidade e estatística.md"
-    },
-    {
-      "basename": "Princípio da superposição",
-      "path": "Notes/Princípio da superposição.md"
-    },
-    {
-      "basename": "Pente de Dirac",
-      "path": "Notes/Pente de Dirac.md"
     }
   ],
   "omittedPaths": [],

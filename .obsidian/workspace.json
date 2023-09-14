@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Método de Quine-McCluskey.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f10a24edd6a6e364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Método de Petrick.md",
+                "file": "Notes/Método de Newton-Raphson.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922
+    "width": 237.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Método de Quine-McCluskey.md",
+                "file": "Notes/Método de Newton-Raphson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Método de Quine-McCluskey.md",
+                "file": "Notes/Método de Newton-Raphson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Método de Quine-McCluskey.md"
+                "file": "Notes/Método de Newton-Raphson.md"
               }
             }
           },
@@ -190,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +196,10 @@
   },
   "active": "ad31f4aa5760467d",
   "lastOpenFiles": [
+    "Notes/Método do ponto fixo.md",
+    "Notes/Método de Newton-Raphson.md",
+    "Notes/Teorema fundamental da álgebra (TFA).md",
+    "Notes/Método de bissecção.md",
     "Notes/Método de Petrick.md",
     "Notes/Método de Quine-McCluskey.md",
     "Notes/Algebra de Boole.md",
@@ -219,7 +212,6 @@
     "Notes/Geometria analítica.md",
     "Notes/Cálculo diferencial.md",
     "Notes/Coordenadas cartesianas.md",
-    "Notes/Método do ponto fixo.md",
     "Notes/Geometria.md",
     "README.md",
     "Notes/Sem título.md",
@@ -230,9 +222,6 @@
     "Notes/Zero de funções reais.md",
     "Notes/Campo eletromagnético.md",
     "Notes/Sistemas digitais.md",
-    "Notes/Porta NOT.md",
-    "Notes/Teorema de DeMorgan.md",
-    "Notes/Porta XNOR.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
