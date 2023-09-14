@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Integral de linha",
+      "path": "Notes/Integral de linha.md"
+    },
+    {
+      "basename": "Diferencial de volume",
+      "path": "Notes/Diferencial de volume.md"
+    },
+    {
+      "basename": "Diferencial de área",
+      "path": "Notes/Diferencial de área.md"
+    },
+    {
+      "basename": "Diferencial de deslocamento",
+      "path": "Notes/Diferencial de deslocamento.md"
+    },
+    {
+      "basename": "Geometria analítica",
+      "path": "Notes/Geometria analítica.md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "Estudo de convergência do método da bissecção",
+      "path": "Notes/Estudo de convergência do método da bissecção.md"
+    },
+    {
+      "basename": "Estimativa do número de iterações",
+      "path": "Notes/Estimativa do número de iterações.md"
+    },
+    {
       "basename": "Método de Newton-Raphson",
       "path": "Notes/Método de Newton-Raphson.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Teorema fundamental da álgebra (TFA)",
       "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
     },
     {
       "basename": "Método de Petrick",
@@ -53,10 +81,6 @@
       "path": "Notes/Coordenadas cilíndricas.md"
     },
     {
-      "basename": "Geometria analítica",
-      "path": "Notes/Geometria analítica.md"
-    },
-    {
       "basename": "Cálculo diferencial",
       "path": "Notes/Cálculo diferencial.md"
     },
@@ -71,10 +95,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Sem título",
-      "path": "Notes/Sem título.md"
     },
     {
       "basename": "Teorema do ponto fixo de Brouler",
@@ -145,14 +165,6 @@
       "path": "Notes/Sinal impulso unitário.md"
     },
     {
-      "basename": "Estimativa do número de iterações",
-      "path": "Notes/Estimativa do número de iterações.md"
-    },
-    {
-      "basename": "Estudo de convergência do método da bissecção",
-      "path": "Notes/Estudo de convergência do método da bissecção.md"
-    },
-    {
       "basename": "Localização de raízes",
       "path": "Notes/Localização de raízes.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Sinais",
       "path": "Notes/Sinais.md"
-    },
-    {
-      "basename": "Série de Fourier do pente de Dirac",
-      "path": "Notes/Série de Fourier do pente de Dirac.md"
-    },
-    {
-      "basename": "Proposição",
-      "path": "Templates/Proposição.md"
-    },
-    {
-      "basename": "Probabilidade e estatística",
-      "path": "Notes/Probabilidade e estatística.md"
     }
   ],
   "omittedPaths": [],

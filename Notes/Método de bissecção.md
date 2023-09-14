@@ -1,4 +1,4 @@
-Tags: #Tópico/Cálculo #Tipo/Proposição
+Tags: #Tipo/Proposição #Tópico/Cálculo
 
 Provas: [[Estudo de convergência do método da bissecção]]
 Referência: _Não Aplicável_

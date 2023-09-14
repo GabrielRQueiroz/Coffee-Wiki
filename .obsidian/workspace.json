@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Método de Newton-Raphson.md",
+                "file": "Notes/Geometria analítica.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da84f02326ef8c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Diferencial de deslocamento.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22a2c8c299e63a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Diferencial de área.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a70360bc9f8cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Diferencial de volume.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fbb3f9a05c1824d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Integral de linha.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922,
-    "collapsed": true
+    "width": 237.5110321044922
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -104,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Método de Newton-Raphson.md",
+                "file": "Notes/Integral de linha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Método de Newton-Raphson.md",
+                "file": "Notes/Integral de linha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Método de Newton-Raphson.md"
+                "file": "Notes/Integral de linha.md"
               }
             }
           },
@@ -194,12 +246,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad31f4aa5760467d",
+  "active": "8fbb3f9a05c1824d",
   "lastOpenFiles": [
-    "Notes/Método do ponto fixo.md",
-    "Notes/Método de Newton-Raphson.md",
-    "Notes/Teorema fundamental da álgebra (TFA).md",
+    "Notes/Diferencial de volume.md",
+    "Notes/Integral de linha.md",
+    "Notes/Diferencial de área.md",
+    "Notes/Diferencial de deslocamento.md",
+    "Notes/Geometria analítica.md",
     "Notes/Método de bissecção.md",
+    "Notes/Estudo de convergência do método da bissecção.md",
+    "Notes/Estimativa do número de iterações.md",
+    "Notes/Método de Newton-Raphson.md",
+    "Notes/Sem título 1.md",
+    "Notes/Método do ponto fixo.md",
+    "Notes/Teorema fundamental da álgebra (TFA).md",
     "Notes/Método de Petrick.md",
     "Notes/Método de Quine-McCluskey.md",
     "Notes/Algebra de Boole.md",
@@ -209,19 +269,11 @@
     "Notes/Maxtermos.md",
     "Notes/Coordenadas esféricas.md",
     "Notes/Coordenadas cilíndricas.md",
-    "Notes/Geometria analítica.md",
     "Notes/Cálculo diferencial.md",
     "Notes/Coordenadas cartesianas.md",
     "Notes/Geometria.md",
     "README.md",
-    "Notes/Sem título.md",
     "Notes/Teorema do ponto fixo de Brouler.md",
-    "Notes/Teorema do valor intermediário (TVI).md",
-    "Notes/Ponto fixo.md",
-    "Notes/Métodos iterativos.md",
-    "Notes/Zero de funções reais.md",
-    "Notes/Campo eletromagnético.md",
-    "Notes/Sistemas digitais.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
