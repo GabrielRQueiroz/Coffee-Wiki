@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Método de Quine-McCluskey",
+      "path": "Notes/Método de Quine-McCluskey.md"
+    },
+    {
+      "basename": "Método de Petrick",
+      "path": "Notes/Método de Petrick.md"
+    },
+    {
+      "basename": "Algebra de Boole",
+      "path": "Notes/Algebra de Boole.md"
+    },
+    {
+      "basename": "Portas lógicas",
+      "path": "Notes/Portas lógicas.md"
+    },
+    {
+      "basename": "Mapa de Karnaugh",
+      "path": "Notes/Mapa de Karnaugh.md"
+    },
+    {
+      "basename": "Introdução de variável no mapa de Karnaugh",
+      "path": "Notes/Introdução de variável no mapa de Karnaugh.md"
+    },
+    {
+      "basename": "Maxtermos",
+      "path": "Notes/Maxtermos.md"
+    },
+    {
       "basename": "Coordenadas esféricas",
       "path": "Notes/Coordenadas esféricas.md"
     },
@@ -61,10 +89,6 @@
       "path": "Notes/Campo eletromagnético.md"
     },
     {
-      "basename": "Mapa de Karnaugh",
-      "path": "Notes/Mapa de Karnaugh.md"
-    },
-    {
       "basename": "Sistemas digitais",
       "path": "Notes/Sistemas digitais.md"
     },
@@ -79,10 +103,6 @@
     {
       "basename": "Porta XNOR",
       "path": "Notes/Porta XNOR.md"
-    },
-    {
-      "basename": "Portas lógicas",
-      "path": "Notes/Portas lógicas.md"
     },
     {
       "basename": "Porta XOR",
@@ -179,26 +199,6 @@
     {
       "basename": "Pente de Dirac",
       "path": "Notes/Pente de Dirac.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
-    },
-    {
-      "basename": "Mintermos",
-      "path": "Notes/Mintermos.md"
-    },
-    {
-      "basename": "Maxtermos",
-      "path": "Notes/Maxtermos.md"
-    },
-    {
-      "basename": "Limites unilaterais",
-      "path": "Notes/Limites unilaterais.md"
-    },
-    {
-      "basename": "Limites envolvendo infinito",
-      "path": "Notes/Limites envolvendo infinito.md"
     }
   ],
   "omittedPaths": [],

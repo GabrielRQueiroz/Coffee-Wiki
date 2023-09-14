@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Coordenadas esféricas.md",
+                "file": "Notes/Método de Quine-McCluskey.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f10a24edd6a6e364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Método de Petrick.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bdd715eddd3b1ffe",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Coordenadas esféricas.md",
+                "file": "Notes/Método de Quine-McCluskey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Coordenadas esféricas.md",
+                "file": "Notes/Método de Quine-McCluskey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Coordenadas esféricas.md"
+                "file": "Notes/Método de Quine-McCluskey.md"
               }
             }
           },
@@ -195,8 +207,15 @@
   },
   "active": "ad31f4aa5760467d",
   "lastOpenFiles": [
-    "Notes/Coordenadas cilíndricas.md",
+    "Notes/Método de Petrick.md",
+    "Notes/Método de Quine-McCluskey.md",
+    "Notes/Algebra de Boole.md",
+    "Notes/Portas lógicas.md",
+    "Notes/Mapa de Karnaugh.md",
+    "Notes/Introdução de variável no mapa de Karnaugh.md",
+    "Notes/Maxtermos.md",
     "Notes/Coordenadas esféricas.md",
+    "Notes/Coordenadas cilíndricas.md",
     "Notes/Geometria analítica.md",
     "Notes/Cálculo diferencial.md",
     "Notes/Coordenadas cartesianas.md",
@@ -211,16 +230,9 @@
     "Notes/Zero de funções reais.md",
     "Notes/Campo eletromagnético.md",
     "Notes/Sistemas digitais.md",
-    "Notes/Mapa de Karnaugh.md",
     "Notes/Porta NOT.md",
     "Notes/Teorema de DeMorgan.md",
     "Notes/Porta XNOR.md",
-    "Notes/Portas lógicas.md",
-    "Notes/Porta XOR.md",
-    "Notes/Porta NOR.md",
-    "Notes/Porta NAND.md",
-    "Notes/Porta OR.md",
-    "Notes/Porta AND.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
