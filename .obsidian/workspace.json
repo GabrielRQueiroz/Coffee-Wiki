@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0784f258c96a4d",
+        "id": "bca70c2d020f8f03",
         "type": "tabs",
         "children": [
           {
-            "id": "ad31f4aa5760467d",
+            "id": "64587c67d3f26f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Geometria analítica.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da84f02326ef8c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Diferencial de deslocamento.md",
+                "file": "Notes/Base de um espaço.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "22a2c8c299e63a6c",
+            "id": "98a7ec0c52263adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Diferencial de área.md",
+                "file": "Notes/Base de um espaço.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,33 +34,19 @@
             }
           },
           {
-            "id": "13a70360bc9f8cb6",
+            "id": "bfdb3d073de1fc3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Diferencial de volume.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fbb3f9a05c1824d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Teorema de Rouché-Capelli.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922
+    "width": 237.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -156,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Base de um espaço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Base de um espaço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Integral de linha.md"
+                "file": "Notes/Base de um espaço.md"
               }
             }
           },
@@ -246,34 +220,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fbb3f9a05c1824d",
+  "active": "64587c67d3f26f3f",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Método da posição falsa.md",
+    "Notes/Base de um espaço.md",
+    "Notes/Vetores geradores de subespaço.md",
+    "Notes/Sistemas lineares.md",
+    "Notes/Teorema de Rouché-Capelli.md",
+    "Notes/Forma vetorial de sistemas lineares.md",
+    "Notes/Álgebra Linear.md",
+    "Notes/Método de bissecção.md",
+    "Notes/Método da secante.md",
+    "Notes/Método de Newton-Raphson (tangente).md",
+    "Notes/Métodos iterativos.md",
+    "Notes/Método do ponto fixo.md",
+    "Notes/Método de Petrick.md",
+    "Notes/Sem título 1.md",
     "Notes/Diferencial de volume.md",
     "Notes/Integral de linha.md",
     "Notes/Diferencial de área.md",
     "Notes/Diferencial de deslocamento.md",
     "Notes/Geometria analítica.md",
-    "Notes/Método de bissecção.md",
     "Notes/Estudo de convergência do método da bissecção.md",
     "Notes/Estimativa do número de iterações.md",
-    "Notes/Método de Newton-Raphson.md",
-    "Notes/Sem título 1.md",
-    "Notes/Método do ponto fixo.md",
     "Notes/Teorema fundamental da álgebra (TFA).md",
-    "Notes/Método de Petrick.md",
     "Notes/Método de Quine-McCluskey.md",
     "Notes/Algebra de Boole.md",
     "Notes/Portas lógicas.md",
-    "Notes/Mapa de Karnaugh.md",
-    "Notes/Introdução de variável no mapa de Karnaugh.md",
-    "Notes/Maxtermos.md",
-    "Notes/Coordenadas esféricas.md",
-    "Notes/Coordenadas cilíndricas.md",
-    "Notes/Cálculo diferencial.md",
-    "Notes/Coordenadas cartesianas.md",
-    "Notes/Geometria.md",
-    "README.md",
-    "Notes/Teorema do ponto fixo de Brouler.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

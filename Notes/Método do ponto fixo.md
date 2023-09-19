@@ -1,6 +1,6 @@
 Tags: #Tipo/Proposição #Tópico/Cálculo #Em_progresso
 
-Provas: [[Método de Newton-Raphson|$\phi(x)=x-\frac{f(x)}{f'(x)}$]]
+Provas: [[Método de Newton-Raphson (tangente)|$\phi(x)=x-\frac{f(x)}{f'(x)}$]]
 Referência: _Não Aplicável_
 Justificativa: [[Teorema do ponto fixo de Brouler]]
 

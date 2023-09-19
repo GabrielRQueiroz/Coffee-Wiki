@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Base de um espaço",
+      "path": "Notes/Base de um espaço.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Método da posição falsa",
+      "path": "Notes/Método da posição falsa.md"
+    },
+    {
+      "basename": "Vetores geradores de subespaço",
+      "path": "Notes/Vetores geradores de subespaço.md"
+    },
+    {
+      "basename": "Sistemas lineares",
+      "path": "Notes/Sistemas lineares.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
+    },
+    {
+      "basename": "Forma vetorial de sistemas lineares",
+      "path": "Notes/Forma vetorial de sistemas lineares.md"
+    },
+    {
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "Método da secante",
+      "path": "Notes/Método da secante.md"
+    },
+    {
+      "basename": "Método de Newton-Raphson (tangente)",
+      "path": "Notes/Método de Newton-Raphson (tangente).md"
+    },
+    {
+      "basename": "Métodos iterativos",
+      "path": "Notes/Métodos iterativos.md"
+    },
+    {
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Método de Petrick",
+      "path": "Notes/Método de Petrick.md"
+    },
+    {
+      "basename": "Sem título 1",
+      "path": "Notes/Sem título 1.md"
+    },
+    {
       "basename": "Integral de linha",
       "path": "Notes/Integral de linha.md"
     },
@@ -21,10 +81,6 @@
       "path": "Notes/Geometria analítica.md"
     },
     {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
-    },
-    {
       "basename": "Estudo de convergência do método da bissecção",
       "path": "Notes/Estudo de convergência do método da bissecção.md"
     },
@@ -33,20 +89,8 @@
       "path": "Notes/Estimativa do número de iterações.md"
     },
     {
-      "basename": "Método de Newton-Raphson",
-      "path": "Notes/Método de Newton-Raphson.md"
-    },
-    {
-      "basename": "Método do ponto fixo",
-      "path": "Notes/Método do ponto fixo.md"
-    },
-    {
       "basename": "Teorema fundamental da álgebra (TFA)",
       "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Método de Petrick",
-      "path": "Notes/Método de Petrick.md"
     },
     {
       "basename": "Método de Quine-McCluskey",
@@ -93,10 +137,6 @@
       "path": "Notes/Geometria.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Teorema do ponto fixo de Brouler",
       "path": "Notes/Teorema do ponto fixo de Brouler.md"
     },
@@ -107,10 +147,6 @@
     {
       "basename": "Ponto fixo",
       "path": "Notes/Ponto fixo.md"
-    },
-    {
-      "basename": "Métodos iterativos",
-      "path": "Notes/Métodos iterativos.md"
     },
     {
       "basename": "Zero de funções reais",
@@ -163,42 +199,6 @@
     {
       "basename": "Sinal impulso unitário",
       "path": "Notes/Sinal impulso unitário.md"
-    },
-    {
-      "basename": "Localização de raízes",
-      "path": "Notes/Localização de raízes.md"
-    },
-    {
-      "basename": "Transformada de Laplace",
-      "path": "Notes/Transformada de Laplace.md"
-    },
-    {
-      "basename": "Transformada de Fourier",
-      "path": "Notes/Transformada de Fourier.md"
-    },
-    {
-      "basename": "Teorema da convolução",
-      "path": "Notes/Teorema da convolução.md"
-    },
-    {
-      "basename": "Teorema",
-      "path": "Templates/Teorema.md"
-    },
-    {
-      "basename": "Sistemas",
-      "path": "Notes/Sistemas.md"
-    },
-    {
-      "basename": "Sistema linear invariante no tempo",
-      "path": "Notes/Sistema linear invariante no tempo.md"
-    },
-    {
-      "basename": "Sinal degrau unitário",
-      "path": "Notes/Sinal degrau unitário.md"
-    },
-    {
-      "basename": "Sinais",
-      "path": "Notes/Sinais.md"
     }
   ],
   "omittedPaths": [],
