@@ -19,3 +19,6 @@ $\huge\rm\bf{G}\normalsize\rm\bf{EOMETRIA ANALÍTICA}$, também chamada **geomet
 	- [[Coordenadas cilíndricas]];
 	- [[Coordenadas esféricas]].
 
+---
+
+****

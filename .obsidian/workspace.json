@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bca70c2d020f8f03",
+        "id": "a697252ac1bb1221",
         "type": "tabs",
         "children": [
           {
-            "id": "64587c67d3f26f3f",
+            "id": "0a8f93fb718830bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Base de um espaço.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a7ec0c52263adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Base de um espaço.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfdb3d073de1fc3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Teorema de Rouché-Capelli.md",
-                "mode": "source",
+                "file": "Notes/Gradiente.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -130,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Base de um espaço.md",
+                "file": "Notes/Gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Base de um espaço.md",
+                "file": "Notes/Gradiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Base de um espaço.md"
+                "file": "Notes/Gradiente.md"
               }
             }
           },
@@ -220,14 +194,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64587c67d3f26f3f",
+  "active": "0a8f93fb718830bc",
   "lastOpenFiles": [
+    "Notes/Gradiente em coordenadas esféricas.md",
+    "Notes/Gradiente.md",
+    "Notes/Gradiente em coordenadas cilíndricas.md",
+    "Notes/Gradiente em coordenadas cartesianas.md",
+    "Notes/Derivada direcional.md",
+    "Notes/Derivada direcional de função diferenciável.md",
+    "Notes/Cálculo diferencial.md",
+    "Notes/Geometria analítica.md",
+    "Notes/Coordenadas polares.md",
+    "Notes/Base de um espaço.md",
+    "Notes/Teorema de Rouché-Capelli.md",
     "README.md",
     "Notes/Método da posição falsa.md",
-    "Notes/Base de um espaço.md",
     "Notes/Vetores geradores de subespaço.md",
     "Notes/Sistemas lineares.md",
-    "Notes/Teorema de Rouché-Capelli.md",
     "Notes/Forma vetorial de sistemas lineares.md",
     "Notes/Álgebra Linear.md",
     "Notes/Método de bissecção.md",
@@ -239,15 +222,6 @@
     "Notes/Sem título 1.md",
     "Notes/Diferencial de volume.md",
     "Notes/Integral de linha.md",
-    "Notes/Diferencial de área.md",
-    "Notes/Diferencial de deslocamento.md",
-    "Notes/Geometria analítica.md",
-    "Notes/Estudo de convergência do método da bissecção.md",
-    "Notes/Estimativa do número de iterações.md",
-    "Notes/Teorema fundamental da álgebra (TFA).md",
-    "Notes/Método de Quine-McCluskey.md",
-    "Notes/Algebra de Boole.md",
-    "Notes/Portas lógicas.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

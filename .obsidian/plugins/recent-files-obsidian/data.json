@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Gradiente",
+      "path": "Notes/Gradiente.md"
+    },
+    {
+      "basename": "Gradiente em coordenadas esféricas",
+      "path": "Notes/Gradiente em coordenadas esféricas.md"
+    },
+    {
+      "basename": "Gradiente em coordenadas cilíndricas",
+      "path": "Notes/Gradiente em coordenadas cilíndricas.md"
+    },
+    {
+      "basename": "Gradiente em coordenadas cartesianas",
+      "path": "Notes/Gradiente em coordenadas cartesianas.md"
+    },
+    {
+      "basename": "Derivada direcional",
+      "path": "Notes/Derivada direcional.md"
+    },
+    {
+      "basename": "Derivada direcional de função diferenciável",
+      "path": "Notes/Derivada direcional de função diferenciável.md"
+    },
+    {
+      "basename": "Cálculo diferencial",
+      "path": "Notes/Cálculo diferencial.md"
+    },
+    {
+      "basename": "Geometria analítica",
+      "path": "Notes/Geometria analítica.md"
+    },
+    {
+      "basename": "Coordenadas polares",
+      "path": "Notes/Coordenadas polares.md"
+    },
+    {
       "basename": "Base de um espaço",
       "path": "Notes/Base de um espaço.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
     },
     {
       "basename": "README",
@@ -19,10 +59,6 @@
     {
       "basename": "Sistemas lineares",
       "path": "Notes/Sistemas lineares.md"
-    },
-    {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
     },
     {
       "basename": "Forma vetorial de sistemas lineares",
@@ -77,10 +113,6 @@
       "path": "Notes/Diferencial de deslocamento.md"
     },
     {
-      "basename": "Geometria analítica",
-      "path": "Notes/Geometria analítica.md"
-    },
-    {
       "basename": "Estudo de convergência do método da bissecção",
       "path": "Notes/Estudo de convergência do método da bissecção.md"
     },
@@ -125,10 +157,6 @@
       "path": "Notes/Coordenadas cilíndricas.md"
     },
     {
-      "basename": "Cálculo diferencial",
-      "path": "Notes/Cálculo diferencial.md"
-    },
-    {
       "basename": "Coordenadas cartesianas",
       "path": "Notes/Coordenadas cartesianas.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Porta XNOR",
       "path": "Notes/Porta XNOR.md"
-    },
-    {
-      "basename": "Porta XOR",
-      "path": "Notes/Porta XOR.md"
-    },
-    {
-      "basename": "Porta NOR",
-      "path": "Notes/Porta NOR.md"
-    },
-    {
-      "basename": "Porta NAND",
-      "path": "Notes/Porta NAND.md"
-    },
-    {
-      "basename": "Porta OR",
-      "path": "Notes/Porta OR.md"
-    },
-    {
-      "basename": "Porta AND",
-      "path": "Notes/Porta AND.md"
-    },
-    {
-      "basename": "Delta de Dirac",
-      "path": "Notes/Delta de Dirac.md"
-    },
-    {
-      "basename": "Sinal impulso unitário",
-      "path": "Notes/Sinal impulso unitário.md"
     }
   ],
   "omittedPaths": [],
