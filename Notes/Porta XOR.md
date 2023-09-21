@@ -13,6 +13,10 @@ Justificativas: _Não Aplicável_
 ```ad-abstract
 title: Definição.
 
+$$
+ {(A \oplus B)} = A \overline B + \overline A B
+$$
+
 
 ```tikz  
 \usepackage{circuitikz}

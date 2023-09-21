@@ -55,4 +55,3 @@ title: Definição.
 
 \end{document}
 ```
-e

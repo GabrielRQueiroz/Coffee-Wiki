@@ -13,6 +13,9 @@ Justificativas: _Não Aplicável_
 ```ad-abstract
 title: Definição.
 
+$$
+ \overline{(A \oplus B)} = \overline A \overline B + AB
+$$
 
 ```tikz  
 \usepackage{circuitikz}
@@ -24,5 +27,5 @@ title: Definição.
     \draw (xnor.out) -- ++(1,0) node[right] {$\overline{(A \oplus B)}$};
 \end{tikzpicture}
 \end{document}
-	
+
 ```

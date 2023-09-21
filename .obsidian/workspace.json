@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0784f258c96a4d",
+        "id": "bd46ee8169709362",
         "type": "tabs",
         "children": [
           {
-            "id": "ad31f4aa5760467d",
+            "id": "753d1bba0fc79c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Geometria analítica.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da84f02326ef8c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Diferencial de deslocamento.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22a2c8c299e63a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Diferencial de área.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13a70360bc9f8cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Diferencial de volume.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fbb3f9a05c1824d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Multiplexador.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#Em_progresso  ",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -156,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Multiplexador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Integral de linha.md",
+                "file": "Notes/Multiplexador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Integral de linha.md"
+                "file": "Notes/Multiplexador.md"
               }
             }
           },
           {
-            "id": "ecef88411b4bb8e1",
+            "id": "2111119de9091aa7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -230,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,34 +192,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fbb3f9a05c1824d",
+  "active": "753d1bba0fc79c52",
   "lastOpenFiles": [
-    "Notes/Diferencial de volume.md",
-    "Notes/Integral de linha.md",
-    "Notes/Diferencial de área.md",
-    "Notes/Diferencial de deslocamento.md",
+    "Notes/Algebra de Boole.md",
+    "Notes/Multiplexador.md",
+    "Notes/Decodificador.md",
+    "Notes/Maxtermos.md",
+    "Notes/Porta AND.md",
+    "Notes/Porta OR.md",
+    "Notes/Mintermos.md",
+    "Notes/Mapa de Karnaugh.md",
+    "Notes/Campo eletromagnético.md",
+    "Notes/Porta XOR.md",
+    "Notes/Porta XNOR.md",
+    "Notes/Porta NOR.md",
+    "README.md",
+    "Notes/Zero de funções reais.md",
+    "Notes/Portas lógicas.md",
     "Notes/Geometria analítica.md",
-    "Notes/Método de bissecção.md",
+    "Notes/Diferencial de área.md",
+    "Notes/Diferencial de volume.md",
+    "Notes/Diferencial de deslocamento.md",
+    "Notes/Coordenadas esféricas.md",
+    "Notes/Coordenadas cartesianas.md",
+    "Notes/Delta de Dirac.md",
+    "Notes/Coordenadas cilíndricas.md",
+    "Notes/Métodos iterativos.md",
     "Notes/Estudo de convergência do método da bissecção.md",
     "Notes/Estimativa do número de iterações.md",
-    "Notes/Método de Newton-Raphson.md",
-    "Notes/Sem título 1.md",
-    "Notes/Método do ponto fixo.md",
-    "Notes/Teorema fundamental da álgebra (TFA).md",
-    "Notes/Método de Petrick.md",
-    "Notes/Método de Quine-McCluskey.md",
-    "Notes/Algebra de Boole.md",
-    "Notes/Portas lógicas.md",
-    "Notes/Mapa de Karnaugh.md",
-    "Notes/Introdução de variável no mapa de Karnaugh.md",
-    "Notes/Maxtermos.md",
-    "Notes/Coordenadas esféricas.md",
-    "Notes/Coordenadas cilíndricas.md",
-    "Notes/Cálculo diferencial.md",
-    "Notes/Coordenadas cartesianas.md",
-    "Notes/Geometria.md",
-    "README.md",
-    "Notes/Teorema do ponto fixo de Brouler.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
