@@ -2,7 +2,7 @@ Tags: #Tipo/Definição #Tópico/Cálculo #Em_progresso
 
 Tipos: [[Gradiente em coordenadas cartesianas|$\nabla f = \frac{\partial f}{\partial x}\hat e_{x} + \frac{\partial f}{\partial y}\hat e_{y} + \frac{\partial f}{\partial z}\hat e_{z}$]], [[Gradiente em coordenadas cilíndricas|$\nabla f = \frac{\partial f}{\partial \rho}\hat e_{\rho} + \frac{1}{\rho}\frac{\partial f}{\partial \phi}\hat e_{\phi} + \frac{\partial f}{\partial z}\hat e_{z}$]], [[Gradiente em coordenadas esféricas|$\nabla f = \frac{\partial f}{\partial \rho}\hat e_{\rho} + \frac{1}{\rho}\frac{\partial f}{\partial \theta}\hat e_{\theta} + \frac{1}{\rho\sin\theta}\frac{\partial f}{\partial \phi}\hat e_{\phi}$]]
 Exemplos: _Não Aplicável_  
-Construções: [[Derivada direcional]]
+Construções: [[Derivada direcional]], [[Divergente]]
 Generalizações: _Não Aplicável_
 
 Propriedades: _Não Aplicável_  

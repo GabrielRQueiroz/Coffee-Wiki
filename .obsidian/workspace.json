@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bd46ee8169709362",
+        "id": "f20764e73fbcfbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "753d1bba0fc79c52",
+            "id": "06cc60d0555d4340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multiplexador.md",
+                "file": "Notes/Divergente em coordenadas cilíndricas.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Em_progresso  ",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922,
-    "collapsed": true
+    "width": 237.5110321044922
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Multiplexador.md",
+                "file": "Notes/Divergente em coordenadas cilíndricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Multiplexador.md",
+                "file": "Notes/Divergente em coordenadas cilíndricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,12 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Multiplexador.md"
+                "file": "Notes/Divergente em coordenadas cilíndricas.md"
               }
             }
           },
           {
-            "id": "2111119de9091aa7",
+            "id": "ecef88411b4bb8e1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +193,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "753d1bba0fc79c52",
+  "active": "06cc60d0555d4340",
   "lastOpenFiles": [
-    "Notes/Algebra de Boole.md",
+    "Notes/Divergente em coordenadas esféricas.md",
+    "Notes/Divergente.md",
+    "Notes/Divergente em coordenadas cilíndricas.md",
+    "Notes/Integral de superfície.md",
+    "Notes/Gradiente.md",
+    "Notes/Gradiente em coordenadas cilíndricas.md",
+    "Notes/Teorema da divergência de Gauss.md",
+    "Notes/Rotacional.md",
+    "README.md",
     "Notes/Multiplexador.md",
     "Notes/Decodificador.md",
-    "Notes/Maxtermos.md",
-    "Notes/Porta AND.md",
-    "Notes/Porta OR.md",
-    "Notes/Mintermos.md",
-    "Notes/Mapa de Karnaugh.md",
-    "Notes/Campo eletromagnético.md",
-    "Notes/Porta XOR.md",
-    "Notes/Porta XNOR.md",
-    "Notes/Porta NOR.md",
-    "README.md",
-    "Notes/Zero de funções reais.md",
-    "Notes/Portas lógicas.md",
+    "Notes/Gradiente em coordenadas esféricas.md",
+    "Notes/Gradiente em coordenadas cartesianas.md",
+    "Notes/Derivada direcional.md",
+    "Notes/Derivada direcional de função diferenciável.md",
+    "Notes/Cálculo diferencial.md",
     "Notes/Geometria analítica.md",
-    "Notes/Diferencial de área.md",
-    "Notes/Diferencial de volume.md",
-    "Notes/Diferencial de deslocamento.md",
-    "Notes/Coordenadas esféricas.md",
-    "Notes/Coordenadas cartesianas.md",
-    "Notes/Delta de Dirac.md",
-    "Notes/Coordenadas cilíndricas.md",
-    "Notes/Métodos iterativos.md",
-    "Notes/Estudo de convergência do método da bissecção.md",
-    "Notes/Estimativa do número de iterações.md",
+    "Notes/Coordenadas polares.md",
+    "Notes/Base de um espaço.md",
+    "Notes/Teorema de Rouché-Capelli.md",
+    "Notes/Método da posição falsa.md",
+    "Notes/Vetores geradores de subespaço.md",
+    "Notes/Sistemas lineares.md",
+    "Notes/Forma vetorial de sistemas lineares.md",
+    "Notes/Álgebra Linear.md",
+    "Notes/Método de bissecção.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
