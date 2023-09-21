@@ -4,55 +4,48 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Tipo/MOC",
+      "query": "tag:#Tópico/Álgebra  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 5399264
       }
     },
     {
-      "query": "tag:#Tópico/Elétrica",
+      "query": "tag:#Tópico/Elétrica  ",
       "color": {
         "a": 1,
-        "rgb": 16514826
+        "rgb": 14725458
       }
     },
     {
-      "query": "tag:#Tópico/Cálculo",
+      "query": "tag:#Tópico/Cálculo  ",
       "color": {
         "a": 1,
-        "rgb": 14780402
+        "rgb": 13844987
       }
     },
     {
-      "query": "tag:#Tópico/Álgebra",
+      "query": "tag:#Tópico/Probabilidade-e-Estatística  ",
       "color": {
         "a": 1,
-        "rgb": 4453443
-      }
-    },
-    {
-      "query": "tag:#Tópico/Probabilidade-e-Estatística",
-      "color": {
-        "a": 1,
-        "rgb": 5767164
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.20456888888889,
-  "lineSizeMultiplier": 1.01873185185185,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.396088888888889,
-  "repelStrength": 11.0041481481481,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4786564140052166,
-  "close": true
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 0.494791666666667,
+  "linkDistance": 89,
+  "scale": 0.39777475521842837,
+  "close": false
 }

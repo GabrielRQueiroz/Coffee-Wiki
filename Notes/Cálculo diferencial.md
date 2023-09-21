@@ -14,3 +14,7 @@ $\huge\rm\bf{C}\normalsize\rm\bf{ÁLCULO}$ $\normalsize\rm\bf{DIFERENCIAL}$ é d
 
 ---
 **Integrais.** A [[Integral de uma função|integral]] de uma função foi criada originalmente para determinar a área sob uma curva no plano cartesiano. O processo de se calcular a integral de uma função é chamado de **integração.** A [[Integral indefinida|integral indefinida]] também é conhecida como **antiderivada** ou **primitiva**.
+
+---
+
+**Gradientes**. O [[Gradiente|gradiente]] dá a direção e sentido em que uma dada função tem a sua maior taxa de variação.

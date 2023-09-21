@@ -4,7 +4,7 @@ Provas: [[Estudo de convergência do método da bissecção]]
 Referência: _Não Aplicável_
 Justificativa: _Não Aplicável_
 
-Especializações: _Não Aplicável_
+Especializações: [[Método da posição falsa]]
 Generalizações: _Não Aplicável_
 
 ```ad-question
