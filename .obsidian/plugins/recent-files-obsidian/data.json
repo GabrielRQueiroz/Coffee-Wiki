@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Métodos iterativos",
+      "path": "Notes/Métodos iterativos.md"
+    },
+    {
+      "basename": "Zero de funções reais",
+      "path": "Notes/Zero de funções reais.md"
+    },
+    {
+      "basename": "Localização de raízes",
+      "path": "Notes/Localização de raízes.md"
+    },
+    {
       "basename": "Divergente em coordenadas cilíndricas",
       "path": "Notes/Divergente em coordenadas cilíndricas.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "Rotacional",
       "path": "Notes/Rotacional.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Gradiente em coordenadas esféricas",
@@ -93,24 +113,12 @@
       "path": "Notes/Álgebra Linear.md"
     },
     {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
-    },
-    {
       "basename": "Método da secante",
       "path": "Notes/Método da secante.md"
     },
     {
       "basename": "Método de Newton-Raphson (tangente)",
       "path": "Notes/Método de Newton-Raphson (tangente).md"
-    },
-    {
-      "basename": "Métodos iterativos",
-      "path": "Notes/Métodos iterativos.md"
-    },
-    {
-      "basename": "Método do ponto fixo",
-      "path": "Notes/Método do ponto fixo.md"
     },
     {
       "basename": "Método de Petrick",
@@ -191,14 +199,6 @@
     {
       "basename": "Teorema do ponto fixo de Brouler",
       "path": "Notes/Teorema do ponto fixo de Brouler.md"
-    },
-    {
-      "basename": "Teorema do valor intermediário (TVI)",
-      "path": "Notes/Teorema do valor intermediário (TVI).md"
-    },
-    {
-      "basename": "Ponto fixo",
-      "path": "Notes/Ponto fixo.md"
     }
   ],
   "omittedPaths": [],

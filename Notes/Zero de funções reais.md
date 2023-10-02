@@ -12,6 +12,5 @@ Justificativas: [[Teorema fundamental da álgebra (TFA)]], [[Teorema do valor i
 
 ```ad-abstract
 title: Definição.
-Um número real $\xi$ é um zero da funçãao $f$ (ou raiz de $f$, ou raiz da equação $f(x)=0$) se $f(\xi)=0$
-
+Um número real $\xi$ é um zero da função $f$ (ou raiz de $f$, ou raiz da equação $f(x)=0$) se $f(\xi)=0$
 ```

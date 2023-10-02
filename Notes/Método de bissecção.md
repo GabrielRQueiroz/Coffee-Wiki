@@ -21,6 +21,8 @@ A melhoria do valor pode ser feita de tal modo que a cada $k$-ésima interação
 
 **Exemplo**. Qual o zero da função $f(x)=x^3-5$?
 
+**1ª iteração**
+
 |$x$|0|1|2|...|
 |---|---|---|---|---|
 |$f(x)$|$-$|$-$|$+$|...|
@@ -51,6 +53,8 @@ M_0=\frac{a_0+b_0}{2}=\frac{1+2}{2}=\frac{3}{2}=1.5
 $$
 > Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
 
+**2ª iteração**
+
 |$x$|1|1.5|2|
 |---|---|---|---|
 |$f(x)$|$-$|$-$|$+$|
@@ -71,6 +75,8 @@ $$
 $$
 > Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
 
+**3ª iteração**
+
 |$x$|1.5|1.75|2|
 |---|---|---|---|
 |$f(x)$|$-$|$+$|$+$|
@@ -90,6 +96,8 @@ $$
 \end{aligned}
 $$
 > Com o novo valor proveniente da bissecção, avaliamos onde $\xi$ se encontra:
+
+**4ª iteração**
 
 |$x$|1.5|1.625|1.75|
 |---|---|---|---|
