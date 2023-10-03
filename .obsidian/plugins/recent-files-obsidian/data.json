@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Lei de Coulomb",
+      "path": "Notes/Lei de Coulomb.md"
+    },
+    {
+      "basename": "Laplaciano escalar",
+      "path": "Notes/Laplaciano escalar.md"
+    },
+    {
+      "basename": "Teorema de Stokes",
+      "path": "Notes/Teorema de Stokes.md"
+    },
+    {
+      "basename": "Teorema de Green",
+      "path": "Notes/Teorema de Green.md"
+    },
+    {
+      "basename": "Vetores geradores de subespaço",
+      "path": "Notes/Vetores geradores de subespaço.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
+    },
+    {
+      "basename": "Operações elementares de linha",
+      "path": "Notes/Operações elementares de linha.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Método do ponto fixo",
       "path": "Notes/Método do ponto fixo.md"
     },
     {
       "basename": "Método de bissecção",
       "path": "Notes/Método de bissecção.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Métodos iterativos",
@@ -89,16 +117,8 @@
       "path": "Notes/Base de um espaço.md"
     },
     {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
-    },
-    {
       "basename": "Método da posição falsa",
       "path": "Notes/Método da posição falsa.md"
-    },
-    {
-      "basename": "Vetores geradores de subespaço",
-      "path": "Notes/Vetores geradores de subespaço.md"
     },
     {
       "basename": "Sistemas lineares",
@@ -179,26 +199,6 @@
     {
       "basename": "Maxtermos",
       "path": "Notes/Maxtermos.md"
-    },
-    {
-      "basename": "Coordenadas esféricas",
-      "path": "Notes/Coordenadas esféricas.md"
-    },
-    {
-      "basename": "Coordenadas cilíndricas",
-      "path": "Notes/Coordenadas cilíndricas.md"
-    },
-    {
-      "basename": "Coordenadas cartesianas",
-      "path": "Notes/Coordenadas cartesianas.md"
-    },
-    {
-      "basename": "Geometria",
-      "path": "Notes/Geometria.md"
-    },
-    {
-      "basename": "Teorema do ponto fixo de Brouler",
-      "path": "Notes/Teorema do ponto fixo de Brouler.md"
     }
   ],
   "omittedPaths": [],

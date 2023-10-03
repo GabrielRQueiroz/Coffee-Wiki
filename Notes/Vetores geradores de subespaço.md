@@ -1,4 +1,4 @@
-Tags: #Tipo/Definição #Tópico/Álgebra 
+Tags: #Tipo/Definição #Tópico/Cálculo #Tópico/Álgebra 
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  
