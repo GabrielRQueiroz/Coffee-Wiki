@@ -25,7 +25,7 @@ title: Proposição.
 Pelo método de Petrick:
 $$
 \begin{align}
-S&=(T_0+T_1)\cdot(T_0+T_{3})\cdot T_3\cdot(T_!+T_2)\cdot(T_3+T_4)
+S&=(T_0+T_1)\cdot(T_0+T_{3})\cdot T_3\cdot(T_1+T_2)\cdot(T_3+T_4)
 \\~\\&=(T_0+\cancel{T_0T_3}+\cancel{T_1T_0}+T_1T_3)\cdot T_3\cdot(T_!+T_2)\cdot(T_3+T_4)
 \\~\\&=(T_0+T_1T_3)\cdot T_{3}\cdot (T_!+T_2)\cdot(T_3+T_4)
 \\~\\&=(T_0T_3+T_1T_3)\cdot(T_1T_3+T_1T_4+T_2T_3+T_2T_4)

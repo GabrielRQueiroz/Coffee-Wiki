@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Método de Petrick",
+      "path": "Notes/Método de Petrick.md"
+    },
+    {
+      "basename": "Método de Quine-McCluskey",
+      "path": "Notes/Método de Quine-McCluskey.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Lei de Coulomb",
       "path": "Notes/Lei de Coulomb.md"
     },
@@ -21,16 +37,8 @@
       "path": "Notes/Vetores geradores de subespaço.md"
     },
     {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
-    },
-    {
       "basename": "Operações elementares de linha",
       "path": "Notes/Operações elementares de linha.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Método do ponto fixo",
@@ -141,10 +149,6 @@
       "path": "Notes/Método de Newton-Raphson (tangente).md"
     },
     {
-      "basename": "Método de Petrick",
-      "path": "Notes/Método de Petrick.md"
-    },
-    {
       "basename": "Sem título 1",
       "path": "Notes/Sem título 1.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "Teorema fundamental da álgebra (TFA)",
       "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
     },
     {
       "basename": "Algebra de Boole",

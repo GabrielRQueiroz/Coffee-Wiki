@@ -1,4 +1,4 @@
-Tags: #Tipo/Proposição #Tópico/Álgebra #Em_progresso
+Tags: #Tipo/Proposição #Tópico/Álgebra
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_
@@ -12,9 +12,15 @@ title: Proposição.
 
 Método utilizada na minização de funções booleanas. É um método razoável para simplificar funções com mais de 4 variáveis de entrada.
 
-1. Encontrar todos os implicantes primos da função
-2. Usar esses implicantes primos num mapa de implicantes primos para encontrar os implicantes primos essenciais da função;
-3. Usar os implicante primos essenciais e se necessário alguns implicantes primos para encontrar a função minimizada.
+1. Obter a expansão de mintermos (implicantes) da função $F$ na forma de tabela verdade;
+2. Reduzir a quantidade de implicantes através de aplicações da relação $AB+A\overline{B}=A$;
+3. Selecionar o conjunto mínimo de implicantes primos da lista dos implicantes que foi gerada, obtendo os **primos essenciais**;
+4. Então, agrupar os implicantes de $F$ conforme a quantidade de dígitos *"1"* presentes;
+5. Para cada linha do agrupamento de $i$ dígitos, buscar uma linha no grupo com $i+1$ que tenha **apenas** um termo diferindo;
+	1. *ex.:* $A\overline{B}C\overline{D}+A\overline{B}CD = A\overline{B}C$ ou ($1010+1011 = 101\verb!x!$);
+6. Listar implicantes primos em linhas em uma tabela cujas colunas são os mintermos de $F$. Então, mapear cada mintermo associado aos implicantes primos:
+	1. Se um mintermo estiver associado a **um, e somente um** mintermo, este deve permanecer na forma simplificada final;
+	2. Se um implicante primo estive associada aos exatos mesmos mintermos dos implicantes anteriormente definidos, ele é considerado redundante e é removido da forma final.
 ```
 
 ---
@@ -106,7 +112,7 @@ Método utilizada na minização de funções booleanas. É um método razoável
 |$T_{6} \to 7,15$| x 1 1 1 |
 |$T_{7} \to 13,15$| 1 1 x 1 |
 
-**Melhorando agrupamentes**:
+**Melhorando agrupamentos**:
 
 | Agrupamento | Primo implicante |
 |---|---|
@@ -115,3 +121,20 @@ Método utilizada na minização de funções booleanas. É um método razoável
 |$T_{2} \to 8,10$| 1 0 x 0 |
 |$T_{3} \to 3,7$| 0 x 1 1 |
 |$T_{4} \to 5,7,13,15$| x 1 x 1 |
+
+	Etapa 4
+
+| Implicantes | 2 | 3 | 5 | 7|8|10|13|15|
+|---|--- |--- |--- |---|---|---|---|---|
+|(2,3)| x | x |--- |---|---|---|---|---|
+|(2,10)| x |--- |--- |---|---| x |---|---|
+|(8,10)|--- |--- |--- |---| x | x |---|---|
+|(3,7)|--- | x |---| x |---|---|---|---|
+|(5,7,13,15)|--- |--- | x | x |---|---| x | x |
+
+- Os mintermos **5, 8 e 15** compõem apenas um implicante primo. Logo, esses implicantes *permanecem* na forma final: $(8,\,10),\;(5,\,7,\,13,\,15).$ 
+- Sabendo os implicantes acima, temos que os implicantes $(2,\,10)$ e $(3,\,7)$ podem ser *removidos* da forma final.
+- Resta somente o implicante $(2,\,3)$, que também pode compor a forma final:
+$$
+S=(2,\,3)+(8,\,10)+(5,\,7,\,13,\,15)=\overline{A}\,\overline{B}C+A\overline{B}\,\overline{D}+BD
+$$
