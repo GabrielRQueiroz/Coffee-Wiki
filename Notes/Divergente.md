@@ -2,7 +2,7 @@ Tags: #Tipo/Definição #Tópico/Cálculo #Em_progresso
 
 Tipos: [[Divergente em coordenadas cilíndricas|$\div F = \frac{1}{\rho}\frac{\partial}{\partial\rho}(\rho F_{\rho}) +\frac{1}{\rho}\frac{\partial F_{\theta}}{\partial\theta} +\frac{\partial F_{z}}{\partial z}$]], [[Divergente em coordenadas esféricas]]
 Exemplos: _Não Aplicável_  
-Construções: _Não Aplicável_  
+Construções: [[Laplaciano escalar|$\Delta \phi = \nabla^{2}\phi$]]  
 Generalizações: _Não Aplicável_
 
 Propriedades: [[Teorema da divergência de Gauss]]

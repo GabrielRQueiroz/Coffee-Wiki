@@ -1,7 +1,7 @@
 Tags: #Tópico/Cálculo #Tipo/Teorema
 
 Provas: _Não Aplicável_
-Referência: _Não Aplicável_
+Referência: [[Regra de sinal de Descartes]]
 Justificativa: _Não Aplicável_
 
 Especializações: _Não Aplicável_

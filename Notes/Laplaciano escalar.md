@@ -16,6 +16,6 @@ title: Definição.
 Seja $\phi$ um campo escalar. O operador laplaciano no espaço euclidiano *n-dimensional* é definido como o **divergente do gradiente**.
 
 $$
-\Delta \phi = \Delta^{2}\phi = \Delta \cdot (\Delta \phi) = \operatorname {div} \left(\operatorname {grad} \phi \right)
+\Delta \phi = \nabla^{2}\phi = \nabla \cdot (\nabla \phi) = \operatorname {div} \left(\operatorname {grad} \phi \right)
 $$
 ```

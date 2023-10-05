@@ -36,7 +36,7 @@ title: Proposição.
 Pelo método de Petrick:
 $$
 \begin{align}
-S&=M_{2}\cdot M_{3}\cdot M_{5} \cdot M_{7} \cdot M_{8} \cdot M_{10} \cdot M_{13} \cdot M_{15}
+Y&=M_{2}\cdot M_{3}\cdot M_{5} \cdot M_{7} \cdot M_{8} \cdot M_{10} \cdot M_{13} \cdot M_{15}=1
 \\~\\&=(T_0+T_1)\cdot(T_0+T_{3})\cdot T_{4}\cdot (T_{3}+T_{4}) \cdot T_{2}\cdot(T_1+T_{2})\cdot  \cancel T_{4} \cdot \cancel T_{4}
 \\~\\&=(T_{0}+T_{1})\cdot (T_{0}+T_{3})\cdot (T_{3}T_{4}+T_{4})\cdot (T_{1}T_{2}+T_{2})
 \\~\\&=(T_{0}+T_{1})\cdot (T_{0}+T_{3})\cdot T_{4}\cdot T_{2}
@@ -46,5 +46,5 @@ S&=M_{2}\cdot M_{3}\cdot M_{5} \cdot M_{7} \cdot M_{8} \cdot M_{10} \cdot M_{13}
 $$
 - Todas as combinações acima são soluções distintas possíveis. Como $\{T_{0},\,T_{4},\,T_{2}\}$ tem menos termos, a função mínima será composta por ela:
 $$
-F=T_{0}+T_{2}+T_{4}
+S=T_{0}+T_{2}+T_{4}
 $$

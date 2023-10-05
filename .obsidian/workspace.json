@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04887f862a38698c",
+            "id": "9f1445d0a2c8aea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Método de Petrick.md",
+                "file": "Notes/Teorema de Stokes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "081bb63c03f0773f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922
+    "width": 237.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -103,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Método de Petrick.md",
+                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Método de Petrick.md",
+                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Método de Petrick.md"
+                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
               }
             }
           },
@@ -182,45 +197,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "homepage:Open homepage": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04887f862a38698c",
+  "active": "081bb63c03f0773f",
   "lastOpenFiles": [
-    "Notes/Método de Quine-McCluskey.md",
-    "Notes/Método de Petrick.md",
-    "README.md",
-    "Notes/Teorema de Rouché-Capelli.md",
-    "Notes/Laplaciano escalar.md",
+    "Notes/Intensidade do campo elétrico devido a carga pontual.md",
+    "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
     "Notes/Lei de Coulomb.md",
+    "Notes/Lei de coulomb em sistemas de cargas discretas.md",
+    "Notes/Campo elétrico.md",
+    "Notes/Distribuição contínua de carga.md",
+    "Notes/Força elétrica.md",
+    "Notes/Campo eletromagnético.md",
+    "README.md",
+    "Notes/Gradiente.md",
+    "Notes/Divergente.md",
+    "Notes/Laplaciano escalar.md",
+    "Notes/Regra de sinal de Descartes.md",
+    "Notes/Método de bissecção.md",
+    "Notes/Interpolação polinomial.md",
+    "Notes/Teorema fundamental da álgebra (TFA).md",
+    "Notes/Método de Petrick.md",
+    "Notes/Método de Quine-McCluskey.md",
     "Notes/Teorema de Stokes.md",
     "Notes/Teorema de Green.md",
     "Notes/Vetores geradores de subespaço.md",
+    "Notes/Teorema de Rouché-Capelli.md",
     "Notes/Operações elementares de linha.md",
-    "Notes/Método de bissecção.md",
     "Notes/Zero de funções reais.md",
     "Notes/Métodos iterativos.md",
     "Notes/Localização de raízes.md",
-    "Notes/Divergente em coordenadas esféricas.md",
-    "Notes/Divergente.md",
-    "Notes/Divergente em coordenadas cilíndricas.md",
-    "Notes/Integral de superfície.md",
-    "Notes/Gradiente.md",
-    "Notes/Gradiente em coordenadas cilíndricas.md",
-    "Notes/Teorema da divergência de Gauss.md",
-    "Notes/Rotacional.md",
-    "Notes/Multiplexador.md",
-    "Notes/Decodificador.md",
-    "Notes/Gradiente em coordenadas esféricas.md",
-    "Notes/Gradiente em coordenadas cartesianas.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

@@ -18,7 +18,7 @@
       "query": "tag:#Tópico/Elétrica  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 15793946
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 11.6666666666667,
   "linkStrength": 0.494791666666667,
   "linkDistance": 89,
-  "scale": 0.5334257528756619,
-  "close": true
+  "scale": 0.4953675332085047,
+  "close": false
 }

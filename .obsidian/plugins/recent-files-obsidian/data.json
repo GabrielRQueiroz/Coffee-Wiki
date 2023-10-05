@@ -1,28 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Método de Petrick",
-      "path": "Notes/Método de Petrick.md"
+      "basename": "Intesidade do campo elétrico devido a distribuição contínua de cargas",
+      "path": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
     },
     {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
+      "basename": "Intensidade do campo elétrico devido a carga pontual",
+      "path": "Notes/Intensidade do campo elétrico devido a carga pontual.md"
     },
     {
       "basename": "Lei de Coulomb",
       "path": "Notes/Lei de Coulomb.md"
     },
     {
+      "basename": "Lei de coulomb em sistemas de cargas discretas",
+      "path": "Notes/Lei de coulomb em sistemas de cargas discretas.md"
+    },
+    {
+      "basename": "Campo elétrico",
+      "path": "Notes/Campo elétrico.md"
+    },
+    {
+      "basename": "Distribuição contínua de carga",
+      "path": "Notes/Distribuição contínua de carga.md"
+    },
+    {
+      "basename": "Campo eletromagnético",
+      "path": "Notes/Campo eletromagnético.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Gradiente",
+      "path": "Notes/Gradiente.md"
+    },
+    {
+      "basename": "Divergente",
+      "path": "Notes/Divergente.md"
+    },
+    {
       "basename": "Laplaciano escalar",
       "path": "Notes/Laplaciano escalar.md"
+    },
+    {
+      "basename": "Regra de sinal de Descartes",
+      "path": "Notes/Regra de sinal de Descartes.md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "Interpolação polinomial",
+      "path": "Notes/Interpolação polinomial.md"
+    },
+    {
+      "basename": "Teorema fundamental da álgebra (TFA)",
+      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
+    },
+    {
+      "basename": "Método de Petrick",
+      "path": "Notes/Método de Petrick.md"
+    },
+    {
+      "basename": "Método de Quine-McCluskey",
+      "path": "Notes/Método de Quine-McCluskey.md"
     },
     {
       "basename": "Teorema de Stokes",
@@ -37,16 +81,16 @@
       "path": "Notes/Vetores geradores de subespaço.md"
     },
     {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
+    },
+    {
       "basename": "Operações elementares de linha",
       "path": "Notes/Operações elementares de linha.md"
     },
     {
       "basename": "Método do ponto fixo",
       "path": "Notes/Método do ponto fixo.md"
-    },
-    {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
     },
     {
       "basename": "Métodos iterativos",
@@ -69,16 +113,8 @@
       "path": "Notes/Divergente em coordenadas esféricas.md"
     },
     {
-      "basename": "Divergente",
-      "path": "Notes/Divergente.md"
-    },
-    {
       "basename": "Integral de superfície",
       "path": "Notes/Integral de superfície.md"
-    },
-    {
-      "basename": "Gradiente",
-      "path": "Notes/Gradiente.md"
     },
     {
       "basename": "Gradiente em coordenadas cilíndricas",
@@ -163,42 +199,6 @@
     {
       "basename": "Diferencial de área",
       "path": "Notes/Diferencial de área.md"
-    },
-    {
-      "basename": "Diferencial de deslocamento",
-      "path": "Notes/Diferencial de deslocamento.md"
-    },
-    {
-      "basename": "Estudo de convergência do método da bissecção",
-      "path": "Notes/Estudo de convergência do método da bissecção.md"
-    },
-    {
-      "basename": "Estimativa do número de iterações",
-      "path": "Notes/Estimativa do número de iterações.md"
-    },
-    {
-      "basename": "Teorema fundamental da álgebra (TFA)",
-      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Algebra de Boole",
-      "path": "Notes/Algebra de Boole.md"
-    },
-    {
-      "basename": "Portas lógicas",
-      "path": "Notes/Portas lógicas.md"
-    },
-    {
-      "basename": "Mapa de Karnaugh",
-      "path": "Notes/Mapa de Karnaugh.md"
-    },
-    {
-      "basename": "Introdução de variável no mapa de Karnaugh",
-      "path": "Notes/Introdução de variável no mapa de Karnaugh.md"
-    },
-    {
-      "basename": "Maxtermos",
-      "path": "Notes/Maxtermos.md"
     }
   ],
   "omittedPaths": [],
