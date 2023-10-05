@@ -4,7 +4,7 @@ Provas: _Não Aplicável_
 Referência: _Não Aplicável_
 Justificativa: _Não Aplicável_
 
-Especializações: _Não Aplicável_
+Especializações: [[Método de Petrick]]
 Generalizações: _Não Aplicável_
 
 ```ad-question

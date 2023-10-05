@@ -11,25 +11,16 @@
             "id": "04887f862a38698c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a38635f5847dd7d5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Método de Petrick.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,11 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a38635f5847dd7d5",
+  "active": "04887f862a38698c",
   "lastOpenFiles": [
     "Notes/Método de Quine-McCluskey.md",
-    "Notes/Teorema de Rouché-Capelli.md",
+    "Notes/Método de Petrick.md",
     "README.md",
+    "Notes/Teorema de Rouché-Capelli.md",
     "Notes/Laplaciano escalar.md",
     "Notes/Lei de Coulomb.md",
     "Notes/Teorema de Stokes.md",
@@ -229,7 +221,6 @@
     "Notes/Decodificador.md",
     "Notes/Gradiente em coordenadas esféricas.md",
     "Notes/Gradiente em coordenadas cartesianas.md",
-    "Notes/Derivada direcional.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
