@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6a439df54872ea",
+        "id": "44ed60aab50d0f49",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1445d0a2c8aea2",
+            "id": "82e0fdccbd64e5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Teorema de Stokes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "081bb63c03f0773f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
-                "mode": "source",
+                "file": "Notes/Mapa de Karnaugh.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,7 +32,7 @@
       {
         "id": "8c9d14a3c415ca2b",
         "type": "tabs",
-        "dimension": 71.28146453089245,
+        "dimension": 37.89107763615296,
         "children": [
           {
             "id": "b75be72da4142382",
@@ -84,9 +70,24 @@
         ]
       },
       {
+        "id": "e72c2ffaf3678c55",
+        "type": "tabs",
+        "dimension": 37.427578215527234,
+        "children": [
+          {
+            "id": "f95a6fb0772f3a78",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "bdd715eddd3b1ffe",
         "type": "tabs",
-        "dimension": 28.718535469107554,
+        "dimension": 24.681344148319816,
         "children": [
           {
             "id": "b047539a42124976",
@@ -100,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "f7c0554c877439c3",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
+                "file": "Notes/Mapa de Karnaugh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
+                "file": "Notes/Mapa de Karnaugh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
+                "file": "Notes/Mapa de Karnaugh.md"
               }
             }
           },
@@ -197,19 +197,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "081bb63c03f0773f",
+  "active": "82e0fdccbd64e5b6",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/Introdução de variável no mapa de Karnaugh.md",
+    "Notes/Mapa de Karnaugh.md",
+    "Notes/Cálculo diferencial.md",
+    "Notes/Gradiente.md",
+    "Notes/Decodificador.md",
+    "Notes/Multiplexador.md",
+    "Notes/Método de Quine-McCluskey.md",
+    "Notes/Expansão de Shannon.md",
+    "Notes/Forma canônica da expansão de Shannon.md",
+    "Notes/Teorema de DeMorgan.md",
+    "Notes/Coordenadas polares.md",
+    "Notes/Derivada direcional de função diferenciável.md",
     "Notes/Intensidade do campo elétrico devido a carga pontual.md",
     "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
     "Notes/Lei de Coulomb.md",
@@ -218,24 +231,11 @@
     "Notes/Distribuição contínua de carga.md",
     "Notes/Força elétrica.md",
     "Notes/Campo eletromagnético.md",
-    "README.md",
-    "Notes/Gradiente.md",
     "Notes/Divergente.md",
     "Notes/Laplaciano escalar.md",
     "Notes/Regra de sinal de Descartes.md",
     "Notes/Método de bissecção.md",
     "Notes/Interpolação polinomial.md",
-    "Notes/Teorema fundamental da álgebra (TFA).md",
-    "Notes/Método de Petrick.md",
-    "Notes/Método de Quine-McCluskey.md",
-    "Notes/Teorema de Stokes.md",
-    "Notes/Teorema de Green.md",
-    "Notes/Vetores geradores de subespaço.md",
-    "Notes/Teorema de Rouché-Capelli.md",
-    "Notes/Operações elementares de linha.md",
-    "Notes/Zero de funções reais.md",
-    "Notes/Métodos iterativos.md",
-    "Notes/Localização de raízes.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

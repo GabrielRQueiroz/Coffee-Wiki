@@ -1,23 +1,32 @@
-Tags: #Tópico/Elétrica #Tipo/Teorema #Em_progresso
+Tags: #Tópico/Álgebra #Tipo/Teorema #Em_progresso
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_
 Justificativa: _Não Aplicável_
 
-Especializações: [[Forma canônica da expansão de Shannon]]
+Especializações: _Não Aplicável_
 Generalizações: _Não Aplicável_
 
 ```ad-info
 title: Teorema.
+Seja $F(x_{1},\,x_{2},\,\ldots,\,x_{n})$. Esta pode ser escrita em sua forma canônica
+$$
+\begin{aligned}
+
+F(x_{1},\,x_{2},\,\ldots,\,x_{n})=x_{1}\cdot F(1,\,x_{2},\,\ldots,\,x_{n}) + \overline{x_{1}}\cdot F(1,\,x_{2},\,\ldots,\,x_{n})
+\iff
+\\~\\
+\iff F(x_{1},\,x_{2},\,\ldots,\,x_{n})=(x_{1}+F(0,\,x_{2},\,\ldots,\,x_{n}))\cdot (\overline{x_{1}}+F(1,\,x_{2},\,\ldots,\,x_{n}))
+\end{aligned}
+$$
+
 ```
 ---
 
-**Exemplo**. 
+**Exemplo**. $AB+A\overline C+BC = AB+\overline A C$
 $$
 \begin{align}
 \begin{aligned}
-&AB+A\overline C+BC = AB+\overline A C
-\\\\
 &\verb!Prova:!
 \\
 &AB+A\overline C+BC

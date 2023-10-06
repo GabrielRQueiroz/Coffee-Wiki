@@ -1,4 +1,4 @@
-Tags: #Tipo/Proposição #Tópico/Álgebra
+Tags: #Tipo/Proposição #Tópico/Elétrica
 
 Provas: _Não Aplicável_
 Referência: _Não Aplicável_
@@ -69,7 +69,7 @@ Método utilizada na minização de funções booleanas. É um método razoável
 
 \end{document}
 ```
-	Etapa 1
+	Etapa 1: Implicantes primos
 
 | Mintermos | Binário | Número de 1's |
 |---|---|---|
@@ -83,7 +83,7 @@ Método utilizada na minização de funções booleanas. É um método razoável
 | 13 | 1 1 0 1 | 3 |
 | 15 | 1 1 1 1 | 4 |
 
-	Etapa 2
+**Agrupados os mintermos, é feito o agrupamento entre cada grupo:**
 
 | Mintermo | Binário |
 |---|---|
@@ -98,8 +98,6 @@ Método utilizada na minização de funções booleanas. É um método razoável
 | 13 | 1 1 0 1 |
 |---|---|
 | 15 | 1 1 1 1 |
-
-	Etapa 3
 
 | Agrupamento | Primo implicante |
 |---|---|
@@ -122,7 +120,7 @@ Método utilizada na minização de funções booleanas. É um método razoável
 |$T_{3} \to 3,7$| 0 x 1 1 |
 |$T_{4} \to 5,7,13,15$| x 1 x 1 |
 
-	Etapa 4
+	Etapa 2: Implicantes primos essenciais
 
 | Implicantes | 2 | 3 | 5 | 7|8|10|13|15|
 |---|--- |--- |--- |---|---|---|---|---|

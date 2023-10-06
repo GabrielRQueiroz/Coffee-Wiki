@@ -10,7 +10,11 @@ Generalizações: _Não Aplicável_
 ```ad-info
 title: Teorema.
 $$
-\overline{AB} = \overline A + \overline B \iff \overline {A+B} = \overline A \cdot \overline B
+\begin{aligned}
+&\overline{(x_{1}\cdot x_{2}\cdot \ldots \cdot x_{n})} = \overline{x_{1}}+ \overline {x_{2}}+ \ldots + \overline{x_{n}}\iff 
+\\~\\
+\iff&\overline{(x_{1}+ x_{2}+ \ldots + x_{n})} = \overline{x_{1}}\cdot \overline {x_{2}}\cdot \ldots \cdot \overline{x_{n}}
+\end{aligned}
 $$
 ```
 ---

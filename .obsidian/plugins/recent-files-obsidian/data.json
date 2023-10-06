@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Mapa de Karnaugh",
+      "path": "Notes/Mapa de Karnaugh.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Introdução de variável no mapa de Karnaugh",
+      "path": "Notes/Introdução de variável no mapa de Karnaugh.md"
+    },
+    {
+      "basename": "Cálculo diferencial",
+      "path": "Notes/Cálculo diferencial.md"
+    },
+    {
+      "basename": "Gradiente",
+      "path": "Notes/Gradiente.md"
+    },
+    {
+      "basename": "Multiplexador",
+      "path": "Notes/Multiplexador.md"
+    },
+    {
+      "basename": "Decodificador",
+      "path": "Notes/Decodificador.md"
+    },
+    {
+      "basename": "Método de Quine-McCluskey",
+      "path": "Notes/Método de Quine-McCluskey.md"
+    },
+    {
+      "basename": "Expansão de Shannon",
+      "path": "Notes/Expansão de Shannon.md"
+    },
+    {
+      "basename": "Forma canônica da expansão de Shannon",
+      "path": "Notes/Forma canônica da expansão de Shannon.md"
+    },
+    {
+      "basename": "Teorema de DeMorgan",
+      "path": "Notes/Teorema de DeMorgan.md"
+    },
+    {
+      "basename": "Coordenadas polares",
+      "path": "Notes/Coordenadas polares.md"
+    },
+    {
+      "basename": "Derivada direcional de função diferenciável",
+      "path": "Notes/Derivada direcional de função diferenciável.md"
+    },
+    {
       "basename": "Intesidade do campo elétrico devido a distribuição contínua de cargas",
       "path": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
     },
@@ -29,14 +81,6 @@
       "path": "Notes/Campo eletromagnético.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Gradiente",
-      "path": "Notes/Gradiente.md"
-    },
-    {
       "basename": "Divergente",
       "path": "Notes/Divergente.md"
     },
@@ -63,10 +107,6 @@
     {
       "basename": "Método de Petrick",
       "path": "Notes/Método de Petrick.md"
-    },
-    {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
     },
     {
       "basename": "Teorema de Stokes",
@@ -141,20 +181,8 @@
       "path": "Notes/Derivada direcional.md"
     },
     {
-      "basename": "Derivada direcional de função diferenciável",
-      "path": "Notes/Derivada direcional de função diferenciável.md"
-    },
-    {
-      "basename": "Cálculo diferencial",
-      "path": "Notes/Cálculo diferencial.md"
-    },
-    {
       "basename": "Geometria analítica",
       "path": "Notes/Geometria analítica.md"
-    },
-    {
-      "basename": "Coordenadas polares",
-      "path": "Notes/Coordenadas polares.md"
     },
     {
       "basename": "Base de um espaço",
@@ -171,34 +199,6 @@
     {
       "basename": "Forma vetorial de sistemas lineares",
       "path": "Notes/Forma vetorial de sistemas lineares.md"
-    },
-    {
-      "basename": "Álgebra Linear",
-      "path": "Notes/Álgebra Linear.md"
-    },
-    {
-      "basename": "Método da secante",
-      "path": "Notes/Método da secante.md"
-    },
-    {
-      "basename": "Método de Newton-Raphson (tangente)",
-      "path": "Notes/Método de Newton-Raphson (tangente).md"
-    },
-    {
-      "basename": "Sem título 1",
-      "path": "Notes/Sem título 1.md"
-    },
-    {
-      "basename": "Integral de linha",
-      "path": "Notes/Integral de linha.md"
-    },
-    {
-      "basename": "Diferencial de volume",
-      "path": "Notes/Diferencial de volume.md"
-    },
-    {
-      "basename": "Diferencial de área",
-      "path": "Notes/Diferencial de área.md"
     }
   ],
   "omittedPaths": [],
