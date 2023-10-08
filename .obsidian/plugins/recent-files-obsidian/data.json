@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Mapa de Karnaugh",
-      "path": "Notes/Mapa de Karnaugh.md"
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Métodos iterativos",
+      "path": "Notes/Métodos iterativos.md"
+    },
+    {
+      "basename": "Método de bissecção",
+      "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "Espaços linha e coluna",
+      "path": "Notes/Espaços linha e coluna.md"
+    },
+    {
+      "basename": "Conjunto gerador de um subespaço",
+      "path": "Notes/Conjunto gerador de um subespaço.md"
+    },
+    {
+      "basename": "Igualdade de dimensão dos espaços linhas e coluna",
+      "path": "Notes/Igualdade de dimensão dos espaços linhas e coluna.md"
+    },
+    {
+      "basename": "Base de um subespaço",
+      "path": "Notes/Base de um subespaço.md"
+    },
+    {
+      "basename": "Dependência linear de conjunto maior que o gerador do subespaço",
+      "path": "Notes/Dependência linear de conjunto maior que o gerador do subespaço.md"
+    },
+    {
+      "basename": "Axioma",
+      "path": "Templates/Axioma.md"
+    },
+    {
+      "basename": "Algebra de Boole",
+      "path": "Notes/Algebra de Boole.md"
+    },
+    {
+      "basename": "Expansão de Shannon",
+      "path": "Notes/Expansão de Shannon.md"
+    },
+    {
+      "basename": "Mintermos",
+      "path": "Notes/Mintermos.md"
+    },
+    {
+      "basename": "Maxtermos",
+      "path": "Notes/Maxtermos.md"
+    },
+    {
+      "basename": "Álgebra Linear",
+      "path": "Notes/Álgebra Linear.md"
+    },
+    {
+      "basename": "Amostragem de sinais",
+      "path": "Notes/Amostragem de sinais.md"
+    },
+    {
+      "basename": "Campo elétrico",
+      "path": "Notes/Campo elétrico.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Multiplexador",
+      "path": "Notes/Multiplexador.md"
+    },
+    {
+      "basename": "Sistema linear com solução única",
+      "path": "Notes/Sistema linear com solução única.md"
+    },
+    {
+      "basename": "Mapa de Karnaugh",
+      "path": "Notes/Mapa de Karnaugh.md"
     },
     {
       "basename": "Introdução de variável no mapa de Karnaugh",
@@ -21,20 +93,12 @@
       "path": "Notes/Gradiente.md"
     },
     {
-      "basename": "Multiplexador",
-      "path": "Notes/Multiplexador.md"
-    },
-    {
       "basename": "Decodificador",
       "path": "Notes/Decodificador.md"
     },
     {
       "basename": "Método de Quine-McCluskey",
       "path": "Notes/Método de Quine-McCluskey.md"
-    },
-    {
-      "basename": "Expansão de Shannon",
-      "path": "Notes/Expansão de Shannon.md"
     },
     {
       "basename": "Forma canônica da expansão de Shannon",
@@ -69,10 +133,6 @@
       "path": "Notes/Lei de coulomb em sistemas de cargas discretas.md"
     },
     {
-      "basename": "Campo elétrico",
-      "path": "Notes/Campo elétrico.md"
-    },
-    {
       "basename": "Distribuição contínua de carga",
       "path": "Notes/Distribuição contínua de carga.md"
     },
@@ -91,10 +151,6 @@
     {
       "basename": "Regra de sinal de Descartes",
       "path": "Notes/Regra de sinal de Descartes.md"
-    },
-    {
-      "basename": "Método de bissecção",
-      "path": "Notes/Método de bissecção.md"
     },
     {
       "basename": "Interpolação polinomial",
@@ -129,14 +185,6 @@
       "path": "Notes/Operações elementares de linha.md"
     },
     {
-      "basename": "Método do ponto fixo",
-      "path": "Notes/Método do ponto fixo.md"
-    },
-    {
-      "basename": "Métodos iterativos",
-      "path": "Notes/Métodos iterativos.md"
-    },
-    {
       "basename": "Zero de funções reais",
       "path": "Notes/Zero de funções reais.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Divergente em coordenadas esféricas",
       "path": "Notes/Divergente em coordenadas esféricas.md"
-    },
-    {
-      "basename": "Integral de superfície",
-      "path": "Notes/Integral de superfície.md"
-    },
-    {
-      "basename": "Gradiente em coordenadas cilíndricas",
-      "path": "Notes/Gradiente em coordenadas cilíndricas.md"
-    },
-    {
-      "basename": "Teorema da divergência de Gauss",
-      "path": "Notes/Teorema da divergência de Gauss.md"
-    },
-    {
-      "basename": "Rotacional",
-      "path": "Notes/Rotacional.md"
-    },
-    {
-      "basename": "Gradiente em coordenadas esféricas",
-      "path": "Notes/Gradiente em coordenadas esféricas.md"
-    },
-    {
-      "basename": "Gradiente em coordenadas cartesianas",
-      "path": "Notes/Gradiente em coordenadas cartesianas.md"
-    },
-    {
-      "basename": "Derivada direcional",
-      "path": "Notes/Derivada direcional.md"
-    },
-    {
-      "basename": "Geometria analítica",
-      "path": "Notes/Geometria analítica.md"
-    },
-    {
-      "basename": "Base de um espaço",
-      "path": "Notes/Base de um espaço.md"
-    },
-    {
-      "basename": "Método da posição falsa",
-      "path": "Notes/Método da posição falsa.md"
-    },
-    {
-      "basename": "Sistemas lineares",
-      "path": "Notes/Sistemas lineares.md"
-    },
-    {
-      "basename": "Forma vetorial de sistemas lineares",
-      "path": "Notes/Forma vetorial de sistemas lineares.md"
     }
   ],
   "omittedPaths": [],

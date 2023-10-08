@@ -64,6 +64,6 @@ Logo, $\xi$ é raiz de $f$ se, e somente se, $\xi$ é ponto fixo de $\phi$.
 **Exemplo**. $x^2+x-6=0$
 $$
 \begin{align}
-
+&f(x)=0\iff x^{2}+x-6=0 \iff x=6-x^{2}=\phi_{1}(x)
 \end{align}
 $$

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44ed60aab50d0f49",
+        "id": "8d72737f16b75ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "82e0fdccbd64e5b6",
+            "id": "086297c5806d9f13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
-                "mode": "preview",
+                "file": "Notes/Método do ponto fixo.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -32,7 +32,7 @@
       {
         "id": "8c9d14a3c415ca2b",
         "type": "tabs",
-        "dimension": 37.89107763615296,
+        "dimension": 42.64194669756663,
         "children": [
           {
             "id": "b75be72da4142382",
@@ -70,15 +70,15 @@
         ]
       },
       {
-        "id": "e72c2ffaf3678c55",
+        "id": "1a3107120ca20cbb",
         "type": "tabs",
-        "dimension": 37.427578215527234,
+        "dimension": 30.82271147161066,
         "children": [
           {
-            "id": "f95a6fb0772f3a78",
+            "id": "fb75b8f28704ffc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -87,7 +87,7 @@
       {
         "id": "bdd715eddd3b1ffe",
         "type": "tabs",
-        "dimension": 24.681344148319816,
+        "dimension": 26.535341830822713,
         "children": [
           {
             "id": "b047539a42124976",
@@ -110,7 +110,7 @@
       {
         "id": "3a59127ce9484219",
         "type": "tabs",
-        "dimension": 54.44162436548223,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "3fa6ada5e40db086",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
+                "file": "Notes/Método do ponto fixo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md",
+                "file": "Notes/Método do ponto fixo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mapa de Karnaugh.md"
+                "file": "Notes/Método do ponto fixo.md"
               }
             }
           },
@@ -176,15 +176,57 @@
         "currentTab": 2
       },
       {
-        "id": "f0a8084cd996afcc",
+        "id": "312a0ae596ff2e80",
         "type": "tabs",
-        "dimension": 45.55837563451777,
+        "dimension": 25,
         "children": [
           {
-            "id": "fb75b8f28704ffc7",
+            "id": "351d886fd0d2c1ee",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Método do ponto fixo.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.9,
+                  "nodeSizeMultiplier": 1.18492723492724,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 15,
+                  "linkStrength": 0.899168399168399,
+                  "linkDistance": 30,
+                  "scale": 0.5334257528756624,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f3534a8e21b17ed",
+        "type": "tabs",
+        "dimension": 41.66666666666667,
+        "children": [
+          {
+            "id": "f95a6fb0772f3a78",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -192,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,34 +249,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82e0fdccbd64e5b6",
+  "active": "086297c5806d9f13",
   "lastOpenFiles": [
+    "Notes/Métodos iterativos.md",
+    "Notes/Método de bissecção.md",
+    "Notes/Espaços linha e coluna.md",
+    "Notes/Conjunto gerador de um subespaço.md",
+    "Notes/Igualdade de dimensão dos espaços linhas e coluna.md",
+    "Notes/Base de um subespaço.md",
+    "Notes/Dependência linear de conjunto maior que o gerador do subespaço.md",
+    "Templates/Axioma.md",
+    "Notes/Algebra de Boole.md",
+    "Notes/Expansão de Shannon.md",
+    "Notes/Mintermos.md",
+    "Notes/Maxtermos.md",
+    "Notes/Álgebra Linear.md",
+    "Notes/Amostragem de sinais.md",
+    "Notes/Campo elétrico.md",
     "README.md",
+    "Notes/Multiplexador.md",
+    "Notes/Sistema linear com solução única.md",
     "Notes/Introdução de variável no mapa de Karnaugh.md",
     "Notes/Mapa de Karnaugh.md",
     "Notes/Cálculo diferencial.md",
     "Notes/Gradiente.md",
     "Notes/Decodificador.md",
-    "Notes/Multiplexador.md",
     "Notes/Método de Quine-McCluskey.md",
-    "Notes/Expansão de Shannon.md",
     "Notes/Forma canônica da expansão de Shannon.md",
     "Notes/Teorema de DeMorgan.md",
-    "Notes/Coordenadas polares.md",
-    "Notes/Derivada direcional de função diferenciável.md",
-    "Notes/Intensidade do campo elétrico devido a carga pontual.md",
-    "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md",
-    "Notes/Lei de Coulomb.md",
-    "Notes/Lei de coulomb em sistemas de cargas discretas.md",
-    "Notes/Campo elétrico.md",
-    "Notes/Distribuição contínua de carga.md",
-    "Notes/Força elétrica.md",
-    "Notes/Campo eletromagnético.md",
-    "Notes/Divergente.md",
-    "Notes/Laplaciano escalar.md",
-    "Notes/Regra de sinal de Descartes.md",
-    "Notes/Método de bissecção.md",
-    "Notes/Interpolação polinomial.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

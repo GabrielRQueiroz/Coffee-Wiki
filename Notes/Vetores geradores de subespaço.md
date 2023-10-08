@@ -2,7 +2,7 @@ Tags: #Tipo/Definição #Tópico/Cálculo #Tópico/Álgebra
 
 Tipos: _Não Aplicável_ 
 Exemplos: _Não Aplicável_  
-Construções: [[Base de um espaço]]
+Construções: [[Conjunto gerador de um subespaço]]
 Generalizações: _Não Aplicável_
 
 Propriedades: _Não Aplicável_  
