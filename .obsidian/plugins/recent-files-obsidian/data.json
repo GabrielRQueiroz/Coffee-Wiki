@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Núcleo da transformação linear",
+      "path": "Notes/Núcleo da transformação linear.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
+    },
+    {
       "basename": "Forma linear de sistemas lineares",
       "path": "Notes/Forma linear de sistemas lineares.md"
     },
     {
+      "basename": "Conjunto gerador da imagem da transformação linear",
+      "path": "Notes/Conjunto gerador da imagem da transformação linear.md"
+    },
+    {
       "basename": "Sistemas lineares",
       "path": "Notes/Sistemas lineares.md"
+    },
+    {
+      "basename": "Posto de uma matriz",
+      "path": "Notes/Posto de uma matriz.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Forma vetorial de sistemas lineares",
@@ -15,10 +35,6 @@
     {
       "basename": "Conjunto gerador de um subespaço",
       "path": "Notes/Conjunto gerador de um subespaço.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Regra de sinal de Descartes",
@@ -183,22 +199,6 @@
     {
       "basename": "Derivada direcional de função diferenciável",
       "path": "Notes/Derivada direcional de função diferenciável.md"
-    },
-    {
-      "basename": "Intesidade do campo elétrico devido a distribuição contínua de cargas",
-      "path": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
-    },
-    {
-      "basename": "Intensidade do campo elétrico devido a carga pontual",
-      "path": "Notes/Intensidade do campo elétrico devido a carga pontual.md"
-    },
-    {
-      "basename": "Lei de Coulomb",
-      "path": "Notes/Lei de Coulomb.md"
-    },
-    {
-      "basename": "Lei de coulomb em sistemas de cargas discretas",
-      "path": "Notes/Lei de coulomb em sistemas de cargas discretas.md"
     }
   ],
   "omittedPaths": [],

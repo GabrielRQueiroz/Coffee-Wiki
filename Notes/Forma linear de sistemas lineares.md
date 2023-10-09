@@ -24,5 +24,5 @@ T_{A}(x_{1},\,x_{2},\,\ldots,\,x_{n})=
 \end{align}
 \end{pmatrix}
 $$
-
+Dado $\overrightarrow{b}=(b_{1},\,b_{2},\,\ldots,\,b_{m})\in\R^{m}$
 ```
