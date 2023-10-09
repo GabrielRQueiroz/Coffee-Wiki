@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Tópico/Álgebra  ",
@@ -38,14 +38,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.22291666666667,
-  "lineSizeMultiplier": 1.06979166666667,
-  "collapse-forces": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.4497920997921,
+  "lineSizeMultiplier": 1.28679833679834,
+  "collapse-forces": true,
   "centerStrength": 0.554054054054054,
   "repelStrength": 15,
   "linkStrength": 0.695945945945946,
   "linkDistance": 30,
-  "scale": 0.7557113310316443,
+  "scale": 0.0914563699979441,
   "close": true
 }

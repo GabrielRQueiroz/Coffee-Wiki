@@ -13,4 +13,6 @@ Justificativas: _Não Aplicável_
 ```ad-abstract
 title: Definição.
 Seja $\mathbb{W}$ um subespaço de $R^{n}$ (e.g. o espaço solução de um sistema linear homogêneo $a\cdot x=\overline 0$). Dizemos que o subconjunto $\{v_{1},\,\ldots ,\, v_{k}\}$ é um **conjunto de geradores** de $\mathbb{W}$ se qualquer vetor de $\mathbb{W}$ é combinação linear de $\{v_{1},\,\ldots ,\, v_{k}\}$.
+
+Dizemos, também, que $\mathbb{W}$ é o **subespaço gerado** por $v_{1},\,\ldots,\, v_{k}$.
 ```

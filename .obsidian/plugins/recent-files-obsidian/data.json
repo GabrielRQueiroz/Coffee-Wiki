@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Forma linear de sistemas lineares",
+      "path": "Notes/Forma linear de sistemas lineares.md"
+    },
+    {
+      "basename": "Sistemas lineares",
+      "path": "Notes/Sistemas lineares.md"
+    },
+    {
       "basename": "Forma vetorial de sistemas lineares",
       "path": "Notes/Forma vetorial de sistemas lineares.md"
+    },
+    {
+      "basename": "Conjunto gerador de um subespaço",
+      "path": "Notes/Conjunto gerador de um subespaço.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Regra de sinal de Descartes",
@@ -73,16 +89,8 @@
       "path": "Notes/Estimativa do número de iterações (Bissecção).md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Espaços linha e coluna",
       "path": "Notes/Espaços linha e coluna.md"
-    },
-    {
-      "basename": "Conjunto gerador de um subespaço",
-      "path": "Notes/Conjunto gerador de um subespaço.md"
     },
     {
       "basename": "Igualdade de dimensão dos espaços linhas e coluna",
@@ -191,14 +199,6 @@
     {
       "basename": "Lei de coulomb em sistemas de cargas discretas",
       "path": "Notes/Lei de coulomb em sistemas de cargas discretas.md"
-    },
-    {
-      "basename": "Distribuição contínua de carga",
-      "path": "Notes/Distribuição contínua de carga.md"
-    },
-    {
-      "basename": "Campo eletromagnético",
-      "path": "Notes/Campo eletromagnético.md"
     }
   ],
   "omittedPaths": [],

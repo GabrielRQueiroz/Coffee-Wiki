@@ -2,12 +2,12 @@ Tags: #Tipo/Definição #Tópico/Álgebra #Em_progresso
 
 Tipos: [[Sistema linear sem solução]], [[Sistema linear com solução única]], [[Sistema com infinitas solução]]
 Exemplos: _Não Aplicável_  
-Construções: [[Vetores geradores de subespaço]]
+Construções: [[Conjunto gerador de um subespaço]]
 Generalizações: _Não Aplicável_
 
 Propriedades: [[Teorema de Rouché-Capelli]]  
 Suficiências: _Não Aplicável_  
-Equivalências: [[Forma vetorial de sistemas lineares|$a\cdot x=b$]]  
+Equivalências: [[Forma vetorial de sistemas lineares|$A\cdot X=B$]], [[Forma linear de sistemas lineares|$T_{A}X=\overrightarrow{b}$]]
 Justificativas: _Não Aplicável_
 
 ```ad-abstract
