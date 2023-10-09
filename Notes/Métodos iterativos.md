@@ -5,7 +5,7 @@ Exemplos: _Não Aplicável_
 Construções: [[Método de bissecção]], [[Método do ponto fixo]], [[Método da posição falsa]], [[Método de Newton-Raphson (tangente)]], [[Método da secante]]
 Generalizações: _Não Aplicável_
 
-Propriedades: [[Localização de raízes]], [[Estimativa do número de iterações]]
+Propriedades: [[Localização de raízes]], [[Estimativa do número de iterações (Bissecção)]]
 Suficiências: _Não Aplicável_  
 Equivalências: _Não Aplicável_  
 Justificativas: _Não Aplicável_

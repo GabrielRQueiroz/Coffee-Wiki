@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d72737f16b75ba3",
+        "id": "1f0cfc79fdb1d017",
         "type": "tabs",
         "children": [
           {
-            "id": "086297c5806d9f13",
+            "id": "8cab090a33524883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Forma vetorial de sistemas lineares.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "8c9d14a3c415ca2b",
         "type": "tabs",
-        "dimension": 42.64194669756663,
+        "dimension": 42.641946697566624,
         "children": [
           {
             "id": "b75be72da4142382",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Forma vetorial de sistemas lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Forma vetorial de sistemas lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Método do ponto fixo.md"
+                "file": "Notes/Forma vetorial de sistemas lineares.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Método do ponto fixo.md",
+                "file": "Notes/Forma vetorial de sistemas lineares.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,8 +208,8 @@
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 15,
                   "linkStrength": 0.899168399168399,
-                  "linkDistance": 30,
-                  "scale": 0.5334257528756624,
+                  "linkDistance": 100,
+                  "scale": 0.22920135941749342,
                   "close": true
                 }
               }
@@ -249,10 +249,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "086297c5806d9f13",
+  "active": "8cab090a33524883",
   "lastOpenFiles": [
+    "Notes/Regra de sinal de Descartes.md",
+    "Notes/Função polinomial.md",
+    "Notes/Interpolação polinomial.md",
+    "Notes/Teorema fundamental da álgebra (TFA).md",
+    "Notes/Zero de funções reais.md",
     "Notes/Métodos iterativos.md",
+    "Notes/Sistemas digitais.md",
+    "Notes/Método da secante.md",
     "Notes/Método de bissecção.md",
+    "Notes/Método do ponto fixo.md",
+    "Notes/Método da posição falsa.md",
+    "Notes/Método de Newton-Raphson (tangente).md",
+    "Notes/Convergência do método da bissecção.md",
+    "Notes/Convergência do método do ponto fixo.md",
+    "Notes/Teorema do ponto fixo de Brower.md",
+    "Notes/Ponto fixo.md",
+    "Notes/Estimativa do número de iterações (Bissecção).md",
+    "README.md",
     "Notes/Espaços linha e coluna.md",
     "Notes/Conjunto gerador de um subespaço.md",
     "Notes/Igualdade de dimensão dos espaços linhas e coluna.md",
@@ -261,22 +277,6 @@
     "Templates/Axioma.md",
     "Notes/Algebra de Boole.md",
     "Notes/Expansão de Shannon.md",
-    "Notes/Mintermos.md",
-    "Notes/Maxtermos.md",
-    "Notes/Álgebra Linear.md",
-    "Notes/Amostragem de sinais.md",
-    "Notes/Campo elétrico.md",
-    "README.md",
-    "Notes/Multiplexador.md",
-    "Notes/Sistema linear com solução única.md",
-    "Notes/Introdução de variável no mapa de Karnaugh.md",
-    "Notes/Mapa de Karnaugh.md",
-    "Notes/Cálculo diferencial.md",
-    "Notes/Gradiente.md",
-    "Notes/Decodificador.md",
-    "Notes/Método de Quine-McCluskey.md",
-    "Notes/Forma canônica da expansão de Shannon.md",
-    "Notes/Teorema de DeMorgan.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",

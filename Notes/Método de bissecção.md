@@ -1,7 +1,7 @@
 Tags: #Tipo/Proposição #Tópico/Cálculo
 
-Provas: [[Estudo de convergência do método da bissecção]]
-Referência: _Não Aplicável_
+Provas: _Não Aplicável_
+Referência: [[Estimativa do número de iterações (Bissecção)]], [[Convergência do método da bissecção]]
 Justificativa: _Não Aplicável_
 
 Especializações: [[Método da posição falsa]]

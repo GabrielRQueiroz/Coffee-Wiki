@@ -1,7 +1,7 @@
 Tags: #Tópico/Cálculo #Tipo/Teorema
 
 Provas: _Não Aplicável_
-Referência: [[Regra de sinal de Descartes]]
+Referência: _Não Aplicável_
 Justificativa: _Não Aplicável_
 
 Especializações: _Não Aplicável_
@@ -9,7 +9,7 @@ Generalizações: _Não Aplicável_
 
 ```ad-info
 title: Teorema.
-Seja $f$ uma funcão **polinomial** de grau $n$ com coeficientes reais.
+Seja $f$ uma [[Função polinomial|função polinomial]] de grau $n$ com coeficientes reais.
 $$
 f(x)=a_nx^n+a_{n-1}x^{n-1}+\ldots+a_1x+a_0
 $$

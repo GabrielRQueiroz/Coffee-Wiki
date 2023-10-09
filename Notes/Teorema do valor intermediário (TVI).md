@@ -5,7 +5,7 @@ Referência: _Não Aplicável_
 Justificativa: _Não Aplicável_
 
 Especializações: _Não Aplicável_
-Generalizações: [[Teorema do ponto fixo de Brouler]]
+Generalizações: [[Teorema do ponto fixo de Brower]]
 
 ```ad-info
 title: Teorema.

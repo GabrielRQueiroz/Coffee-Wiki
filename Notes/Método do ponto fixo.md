@@ -1,10 +1,10 @@
 Tags: #Tipo/Proposição #Tópico/Cálculo #Em_progresso
 
 Provas: [[Método de Newton-Raphson (tangente)|$\phi(x)=x-\frac{f(x)}{f'(x)}$]]
-Referência: _Não Aplicável_
-Justificativa: [[Teorema do ponto fixo de Brouler]]
+Referência: [[Convergência do método do ponto fixo]]
+Justificativa: [[Teorema do ponto fixo de Brower]]
 
-Especializações: _Não Aplicável_
+Especializações: [[Método de Newton-Raphson (tangente)]]
 Generalizações: [[Ponto fixo]]
 
 ```ad-question
@@ -15,7 +15,7 @@ $$
 f(\xi)=0 \iff \xi-\phi(\xi)=0 \iff \xi=\phi(\xi)
 $$
 
-Logo, $\xi$ é raiz de $f$ se, e somente se, $\xi$ é ponto fixo de $\phi$.
+Logo, $\xi$ é raiz de $f$ se, e somente se, $\xi$ é ponto fixo da função de iteração $\phi$.
 
 ```tikz
 \usepackage{pgfplots}

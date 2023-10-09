@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Método do ponto fixo",
-      "path": "Notes/Método do ponto fixo.md"
+      "basename": "Forma vetorial de sistemas lineares",
+      "path": "Notes/Forma vetorial de sistemas lineares.md"
+    },
+    {
+      "basename": "Regra de sinal de Descartes",
+      "path": "Notes/Regra de sinal de Descartes.md"
+    },
+    {
+      "basename": "Função polinomial",
+      "path": "Notes/Função polinomial.md"
+    },
+    {
+      "basename": "Interpolação polinomial",
+      "path": "Notes/Interpolação polinomial.md"
+    },
+    {
+      "basename": "Teorema fundamental da álgebra (TFA)",
+      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
+    },
+    {
+      "basename": "Zero de funções reais",
+      "path": "Notes/Zero de funções reais.md"
     },
     {
       "basename": "Métodos iterativos",
       "path": "Notes/Métodos iterativos.md"
     },
     {
+      "basename": "Sistemas digitais",
+      "path": "Notes/Sistemas digitais.md"
+    },
+    {
+      "basename": "Método da secante",
+      "path": "Notes/Método da secante.md"
+    },
+    {
       "basename": "Método de bissecção",
       "path": "Notes/Método de bissecção.md"
+    },
+    {
+      "basename": "Método do ponto fixo",
+      "path": "Notes/Método do ponto fixo.md"
+    },
+    {
+      "basename": "Método da posição falsa",
+      "path": "Notes/Método da posição falsa.md"
+    },
+    {
+      "basename": "Método de Newton-Raphson (tangente)",
+      "path": "Notes/Método de Newton-Raphson (tangente).md"
+    },
+    {
+      "basename": "Convergência do método da bissecção",
+      "path": "Notes/Convergência do método da bissecção.md"
+    },
+    {
+      "basename": "Convergência do método do ponto fixo",
+      "path": "Notes/Convergência do método do ponto fixo.md"
+    },
+    {
+      "basename": "Teorema do ponto fixo de Brower",
+      "path": "Notes/Teorema do ponto fixo de Brower.md"
+    },
+    {
+      "basename": "Ponto fixo",
+      "path": "Notes/Ponto fixo.md"
+    },
+    {
+      "basename": "Estimativa do número de iterações (Bissecção)",
+      "path": "Notes/Estimativa do número de iterações (Bissecção).md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Espaços linha e coluna",
@@ -63,10 +127,6 @@
     {
       "basename": "Campo elétrico",
       "path": "Notes/Campo elétrico.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Multiplexador",
@@ -139,66 +199,6 @@
     {
       "basename": "Campo eletromagnético",
       "path": "Notes/Campo eletromagnético.md"
-    },
-    {
-      "basename": "Divergente",
-      "path": "Notes/Divergente.md"
-    },
-    {
-      "basename": "Laplaciano escalar",
-      "path": "Notes/Laplaciano escalar.md"
-    },
-    {
-      "basename": "Regra de sinal de Descartes",
-      "path": "Notes/Regra de sinal de Descartes.md"
-    },
-    {
-      "basename": "Interpolação polinomial",
-      "path": "Notes/Interpolação polinomial.md"
-    },
-    {
-      "basename": "Teorema fundamental da álgebra (TFA)",
-      "path": "Notes/Teorema fundamental da álgebra (TFA).md"
-    },
-    {
-      "basename": "Método de Petrick",
-      "path": "Notes/Método de Petrick.md"
-    },
-    {
-      "basename": "Teorema de Stokes",
-      "path": "Notes/Teorema de Stokes.md"
-    },
-    {
-      "basename": "Teorema de Green",
-      "path": "Notes/Teorema de Green.md"
-    },
-    {
-      "basename": "Vetores geradores de subespaço",
-      "path": "Notes/Vetores geradores de subespaço.md"
-    },
-    {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
-    },
-    {
-      "basename": "Operações elementares de linha",
-      "path": "Notes/Operações elementares de linha.md"
-    },
-    {
-      "basename": "Zero de funções reais",
-      "path": "Notes/Zero de funções reais.md"
-    },
-    {
-      "basename": "Localização de raízes",
-      "path": "Notes/Localização de raízes.md"
-    },
-    {
-      "basename": "Divergente em coordenadas cilíndricas",
-      "path": "Notes/Divergente em coordenadas cilíndricas.md"
-    },
-    {
-      "basename": "Divergente em coordenadas esféricas",
-      "path": "Notes/Divergente em coordenadas esféricas.md"
     }
   ],
   "omittedPaths": [],

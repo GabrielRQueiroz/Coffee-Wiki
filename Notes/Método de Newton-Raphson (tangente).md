@@ -9,19 +9,17 @@ Generalizações: [[Método da posição falsa]]
 
 ```ad-question
 title: Proposição.
-Seja $f(x)=0 \iff \phi(x)=x$, em $[a,\,b]$ ([[Método do ponto fixo]]):
-1. $\phi$ e $\phi '$ são contínuas em $[a,\,b]$
-2. $|\phi '(x)| \le L \lt x,\, \forall x\in [a,\,b]$
-3. $x_0\in[a,\,b]$
-Seja, então, $f:[a,\,b]\to\R,\, f,\, f'$ e $f''$ contínuas. Suponha que $\xi \in [a,\,b]$ seja a única raiz de $f$ em $[a,\,b]$
+Seja $f(x)=0 \iff \phi(x)=x$, em $[a,\,b]$ ([[Método do ponto fixo]]). A função de iteração 
 $$
-f(x)\stackrel{?}{=}0
+\phi(x)=x-\frac{f(x)}{f'(x)}
 $$
+pode ser utilizada diante das condições:
 
-Logo, $\phi(x)=x-\frac{f(x)}{f'(x)}$ é função de iteração de $f$.
+1. $f$, $f'$ e $f''$ são contínuas em $[a,\,b]$;
+2. $f'(x)\neq 0,\, \forall\; x\in [a,\,b]$; e
+3. $x_0\in[a,\,b]$ está "suficientemente próximo" de $\xi$.
+
 ```
-
----
 
 **Prova**. 
 $$
