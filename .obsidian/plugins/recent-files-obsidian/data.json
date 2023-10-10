@@ -1,40 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Núcleo da transformação linear",
-      "path": "Notes/Núcleo da transformação linear.md"
-    },
-    {
-      "basename": "Teorema de Rouché-Capelli",
-      "path": "Notes/Teorema de Rouché-Capelli.md"
-    },
-    {
-      "basename": "Forma linear de sistemas lineares",
-      "path": "Notes/Forma linear de sistemas lineares.md"
+      "basename": "Conjunto gerador de um subespaço",
+      "path": "Notes/Conjunto gerador de um subespaço.md"
     },
     {
       "basename": "Conjunto gerador da imagem da transformação linear",
       "path": "Notes/Conjunto gerador da imagem da transformação linear.md"
     },
     {
+      "basename": "Forma linear de sistemas lineares",
+      "path": "Notes/Forma linear de sistemas lineares.md"
+    },
+    {
+      "basename": "Base da imagem da transformação linear",
+      "path": "Notes/Base da imagem da transformação linear.md"
+    },
+    {
+      "basename": "Espaços linha e coluna",
+      "path": "Notes/Espaços linha e coluna.md"
+    },
+    {
       "basename": "Sistemas lineares",
       "path": "Notes/Sistemas lineares.md"
     },
     {
-      "basename": "Posto de uma matriz",
-      "path": "Notes/Posto de uma matriz.md"
+      "basename": "Teorema da dimensão núcleo-imagem da transformação linear",
+      "path": "Notes/Teorema da dimensão núcleo-imagem da transformação linear.md"
+    },
+    {
+      "basename": "Decomposição LU",
+      "path": "Notes/Decomposição LU.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
+      "basename": "Matriz inversa por decomposição LU",
+      "path": "Notes/Matriz inversa por decomposição LU.md"
+    },
+    {
+      "basename": "Matriz inversa por escalonamento",
+      "path": "Notes/Matriz inversa por escalonamento.md"
+    },
+    {
+      "basename": "Núcleo da transformação linear",
+      "path": "Notes/Núcleo da transformação linear.md"
+    },
+    {
       "basename": "Forma vetorial de sistemas lineares",
       "path": "Notes/Forma vetorial de sistemas lineares.md"
     },
     {
-      "basename": "Conjunto gerador de um subespaço",
-      "path": "Notes/Conjunto gerador de um subespaço.md"
+      "basename": "Posto de uma matriz",
+      "path": "Notes/Posto de uma matriz.md"
+    },
+    {
+      "basename": "Teorema de Rouché-Capelli",
+      "path": "Notes/Teorema de Rouché-Capelli.md"
     },
     {
       "basename": "Regra de sinal de Descartes",
@@ -103,10 +127,6 @@
     {
       "basename": "Estimativa do número de iterações (Bissecção)",
       "path": "Notes/Estimativa do número de iterações (Bissecção).md"
-    },
-    {
-      "basename": "Espaços linha e coluna",
-      "path": "Notes/Espaços linha e coluna.md"
     },
     {
       "basename": "Igualdade de dimensão dos espaços linhas e coluna",
@@ -179,26 +199,6 @@
     {
       "basename": "Decodificador",
       "path": "Notes/Decodificador.md"
-    },
-    {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
-    },
-    {
-      "basename": "Forma canônica da expansão de Shannon",
-      "path": "Notes/Forma canônica da expansão de Shannon.md"
-    },
-    {
-      "basename": "Teorema de DeMorgan",
-      "path": "Notes/Teorema de DeMorgan.md"
-    },
-    {
-      "basename": "Coordenadas polares",
-      "path": "Notes/Coordenadas polares.md"
-    },
-    {
-      "basename": "Derivada direcional de função diferenciável",
-      "path": "Notes/Derivada direcional de função diferenciável.md"
     }
   ],
   "omittedPaths": [],

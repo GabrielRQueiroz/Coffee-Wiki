@@ -5,7 +5,7 @@ Exemplos: _Não Aplicável_
 Construções: [[Conjunto gerador de um subespaço]]
 Generalizações: _Não Aplicável_
 
-Propriedades: [[Teorema de Rouché-Capelli]]  
+Propriedades: [[Teorema de Rouché-Capelli]], [[Decomposição LU]]  
 Suficiências: _Não Aplicável_  
 Equivalências: [[Forma vetorial de sistemas lineares|$A\cdot X=B$]], [[Forma linear de sistemas lineares|$T_{A}X=\overrightarrow{b}$]]
 Justificativas: _Não Aplicável_

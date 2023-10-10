@@ -1,10 +1,10 @@
 Tags: #Tipo/Teorema #Tópico/Álgebra #Em_progresso
 
-Provas: _Não Aplicável_
-Referência: [[Forma linear de sistemas lineares]]
+Provas: [[Conjunto gerador de um subespaço]]
+Referência: [[Espaços linha e coluna]]
 Justificativa: _Não Aplicável_
 
-Especializações: _Não Aplicável_
+Especializações: [[Base da imagem da transformação linear]]
 Generalizações: _Não Aplicável_
 
 ```ad-info

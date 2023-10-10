@@ -4,29 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "f0172eb385fc4e60",
+        "id": "785bc30c14bba076",
         "type": "tabs",
         "children": [
           {
-            "id": "ed16393c6214446d",
+            "id": "f5de5004f21a847f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sistemas lineares.md",
-                "mode": "preview",
+                "file": "Notes/Matriz inversa por escalonamento.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "bd247a058d46ce2b",
+            "id": "faae3c2e5c69528f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Núcleo da transformação linear.md",
+                "file": "Notes/Matriz inversa por decomposição LU.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "991097fcc67fb326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Conjunto gerador de um subespaço.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "037b6c523f6a622a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Matriz inversa por escalonamento.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tipo/Proposição",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Núcleo da transformação linear.md",
+                "file": "Notes/Conjunto gerador de um subespaço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Núcleo da transformação linear.md",
+                "file": "Notes/Conjunto gerador de um subespaço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Núcleo da transformação linear.md"
+                "file": "Notes/Conjunto gerador de um subespaço.md"
               }
             }
           },
@@ -200,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Núcleo da transformação linear.md",
+                "file": "Notes/Conjunto gerador de um subespaço.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +249,7 @@
                   "repelStrength": 15,
                   "linkStrength": 0.899168399168399,
                   "linkDistance": 100,
-                  "scale": 0.5334257528756624,
+                  "scale": 0.04231590268975922,
                   "close": true
                 }
               }
@@ -252,28 +278,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd247a058d46ce2b",
+  "active": "991097fcc67fb326",
   "lastOpenFiles": [
-    "Notes/Teorema de Rouché-Capelli.md",
-    "Notes/Forma linear de sistemas lineares.md",
     "Notes/Conjunto gerador da imagem da transformação linear.md",
-    "Notes/Sistemas lineares.md",
-    "Notes/Núcleo da transformação linear.md",
-    "Notes/Posto de uma matriz.md",
-    "README.md",
-    "Notes/Forma vetorial de sistemas lineares.md",
+    "Notes/Forma linear de sistemas lineares.md",
+    "Notes/Base da imagem da transformação linear.md",
+    "Notes/Espaços linha e coluna.md",
     "Notes/Conjunto gerador de um subespaço.md",
+    "Notes/Sistemas lineares.md",
+    "Notes/Teorema da dimensão núcleo-imagem da transformação linear.md",
+    "Notes/Decomposição LU.md",
+    "README.md",
+    "Notes/Matriz inversa por decomposição LU.md",
+    "Notes/Exe.md",
+    "Notes/Matriz inversa por escalonamento.md",
+    "Notes/Núcleo da transformação linear.md",
+    "Notes/Forma vetorial de sistemas lineares.md",
+    "Notes/Posto de uma matriz.md",
+    "Notes/Teorema de Rouché-Capelli.md",
     "Notes/Vetores geradores de subespaço.md",
     "Notes/Regra de sinal de Descartes.md",
     "Notes/Função polinomial.md",
@@ -284,13 +317,6 @@
     "Notes/Sistemas digitais.md",
     "Notes/Método da secante.md",
     "Notes/Método de bissecção.md",
-    "Notes/Método do ponto fixo.md",
-    "Notes/Método da posição falsa.md",
-    "Notes/Método de Newton-Raphson (tangente).md",
-    "Notes/Convergência do método da bissecção.md",
-    "Notes/Convergência do método do ponto fixo.md",
-    "Notes/Teorema do ponto fixo de Brower.md",
-    "Notes/Ponto fixo.md",
     "Notes",
     "f943f55b.bmp",
     "Assets/dirac_delta.txt",
