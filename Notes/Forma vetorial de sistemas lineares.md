@@ -7,7 +7,7 @@ Generalizações: [[Sistemas lineares]]
 
 Propriedades: _Não Aplicável_  
 Suficiências: _Não Aplicável_  
-Equivalências: _Não Aplicável_  
+Equivalências: [[Forma linear de sistemas lineares|$T_{A}X=\overrightarrow{b}$]]
 Justificativas: _Não Aplicável_
 
 ```ad-abstract
