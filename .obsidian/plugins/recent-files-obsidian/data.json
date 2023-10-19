@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Expansão de Shannon",
+      "path": "Notes/Expansão de Shannon.md"
+    },
+    {
       "basename": "Intensidade do campo elétrico devido a carga pontual",
       "path": "Notes/Intensidade do campo elétrico devido a carga pontual.md"
+    },
+    {
+      "basename": "Intesidade do campo elétrico devido a distribuição contínua de cargas",
+      "path": "Notes/Intesidade do campo elétrico devido a distribuição contínua de cargas.md"
     },
     {
       "basename": "Distribuição contínua de carga",
@@ -13,8 +21,32 @@
       "path": "Notes/Campo elétrico.md"
     },
     {
+      "basename": "Densidade de fluxo elétrico",
+      "path": "Notes/Densidade de fluxo elétrico.md"
+    },
+    {
+      "basename": "Fluxo elétrico",
+      "path": "Notes/Fluxo elétrico.md"
+    },
+    {
+      "basename": "Lei de Gauss",
+      "path": "Notes/Lei de Gauss.md"
+    },
+    {
+      "basename": "Forma diferencial da lei de Gauss",
+      "path": "Notes/Forma diferencial da lei de Gauss.md"
+    },
+    {
+      "basename": "Teorema da divergência de Gauss",
+      "path": "Notes/Teorema da divergência de Gauss.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Lei de Coulomb",
+      "path": "Notes/Lei de Coulomb.md"
     },
     {
       "basename": "Sistemas lineares",
@@ -145,10 +177,6 @@
       "path": "Notes/Algebra de Boole.md"
     },
     {
-      "basename": "Expansão de Shannon",
-      "path": "Notes/Expansão de Shannon.md"
-    },
-    {
       "basename": "Mintermos",
       "path": "Notes/Mintermos.md"
     },
@@ -167,38 +195,6 @@
     {
       "basename": "Multiplexador",
       "path": "Notes/Multiplexador.md"
-    },
-    {
-      "basename": "Sistema linear com solução única",
-      "path": "Notes/Sistema linear com solução única.md"
-    },
-    {
-      "basename": "Mapa de Karnaugh",
-      "path": "Notes/Mapa de Karnaugh.md"
-    },
-    {
-      "basename": "Introdução de variável no mapa de Karnaugh",
-      "path": "Notes/Introdução de variável no mapa de Karnaugh.md"
-    },
-    {
-      "basename": "Cálculo diferencial",
-      "path": "Notes/Cálculo diferencial.md"
-    },
-    {
-      "basename": "Gradiente",
-      "path": "Notes/Gradiente.md"
-    },
-    {
-      "basename": "Decodificador",
-      "path": "Notes/Decodificador.md"
-    },
-    {
-      "basename": "Método de Quine-McCluskey",
-      "path": "Notes/Método de Quine-McCluskey.md"
-    },
-    {
-      "basename": "Forma canônica da expansão de Shannon",
-      "path": "Notes/Forma canônica da expansão de Shannon.md"
     }
   ],
   "omittedPaths": [],

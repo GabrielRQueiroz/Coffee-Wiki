@@ -4,7 +4,7 @@ Provas: _Não Aplicável_
 Referência: [[Lei de Coulomb|$F=\frac{Q_{1}Q_{2}}{4\pi\epsilon_{o}r^{2}}$]], [[Distribuição contínua de carga|$Q=\iiint_{V}\rho_{V}dv$]]
 Justificativa: _Não Aplicável_
 
-Especializações: [[Intesidade do campo elétrico devido a distribuição contínua de cargas]]
+Especializações: [[Intesidade do campo elétrico devido a distribuição contínua de cargas|$\overline E = \frac{1}{4\pi\epsilon_{o}}\int\limits_{?}\frac{\rho_{?}(\overline{r}-\overline{r}')}{|\overline{r}-\overline{r}'|^{3}}d?$]]
 Generalizações: _Não Aplicável_
 
 ```ad-info
@@ -20,7 +20,7 @@ $$
 \overline{E}=\frac{Q}{4\pi\epsilon_{o}r^{2}}=\frac{Q}{4\pi\epsilon_{o}}\frac{(\overline{r}-\overline{r}')}{|\overline{r}-\overline{r}'|^{3}}\,,
 $$
 
-se assimilando bastante à [[Lei de Coulomb]], porém **não dependendo** da carga pontual que exerce a força. No caso de $N$ cargas:
+se assimilando bastante à [[Lei de Coulomb]], **não dependendo** da carga pontual que exerce a força. No caso de $N$ cargas:
 
 $$
 \overline{E}=\sum\limits_{k=1}^{N}\frac{Q_{k}(\overline{r}-\overline{r}_{k})}{4\pi\epsilon_{o}|\overline{r}-\overline{r}_{k}|^{3}}

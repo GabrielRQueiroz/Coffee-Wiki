@@ -1,7 +1,7 @@
 Tags: #Tipo/Teorema #Tópico/Elétrica #Em_progresso
 
 Provas: _Não Aplicável_
-Referência: _Não Aplicável_
+Referência: [[Campo elétrico]]
 Justificativa: _Não Aplicável_
 
 Especializações: [[Lei de coulomb em sistemas de cargas discretas|$F(r)=\frac{Q}{4\pi\epsilon_{o}}\sum\limits_{i=1}^{N}Q_i\frac{r-r_{i}}{|r-r_{i}|^3}$]]

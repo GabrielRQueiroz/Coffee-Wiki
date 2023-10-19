@@ -11,13 +11,14 @@ Generalizações: _Não Aplicável_
 title: Teorema.
 Seja $F(x_{1},\,x_{2},\,\ldots,\,x_{n})$. Esta pode ser escrita em sua forma canônica
 $$
-\begin{aligned}
+\begin{gather}
 
-F(x_{1},\,x_{2},\,\ldots,\,x_{n})=x_{1}\cdot F(1,\,x_{2},\,\ldots,\,x_{n}) + \overline{x_{1}}\cdot F(1,\,x_{2},\,\ldots,\,x_{n})
+F(x_{1},\,x_{2},\,\ldots,\,x_{n})=x_{1}\cdot F(1,\,x_{2},\,\ldots,\,x_{n}) + \overline{x_{1}}\cdot F(0,\,x_{2},\,\ldots,\,x_{n})
+\\~\\
 \iff
 \\~\\
-\iff F(x_{1},\,x_{2},\,\ldots,\,x_{n})=(x_{1}+F(0,\,x_{2},\,\ldots,\,x_{n}))\cdot (\overline{x_{1}}+F(1,\,x_{2},\,\ldots,\,x_{n}))
-\end{aligned}
+F(x_{1},\,x_{2},\,\ldots,\,x_{n})=(x_{1}+F(0,\,x_{2},\,\ldots,\,x_{n}))\cdot (\overline{x_{1}}+F(1,\,x_{2},\,\ldots,\,x_{n}))
+\end{gather}
 $$
 
 ```
